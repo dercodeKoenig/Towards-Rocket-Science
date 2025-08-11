@@ -1,0 +1,42 @@
+tile.contenttweaker.planet_artifact_volcanic.name=Artifact - Volcanic
+tile.contenttweaker.planet_artifact_ferric_sand.name=Artifact - Ferric Sand
+tile.contenttweaker.planet_artifact_strange_dust.name=Artifact - Strange Dust
+tile.contenttweaker.planet_artifact_gas_giant.name=Artifact - Gas Giant
+tile.contenttweaker.planet_artifact_ice.name=Artifact - Ice Crystals
+
+
+fluid.naphta=Naphta
+fluid.propene=Propene Gas
+fluid.kerosene=Kerosene
+fluid.moltenplastic=Molten Plastic
+fluid.molten_modularium=Molten Modularium
+fluid.molten_redstone=Molten Redstone
+
+
+item.contenttweaker.plastic.name=Plastic
+item.contenttweaker.modularium_plate.name=Modularium Plate
+
+tile.immersiveengineering.conveyor..name=Conveyor Structure
+
+item.contenttweaker.trade_buy_blaze.name=Buy Blaze Powder
+item.contenttweaker.trade_buy_coal.name=Buy Coal
+item.contenttweaker.trade_buy_food.name=Buy Food Supplies
+item.contenttweaker.trade_buy_wood.name=Buy Wood
+item.contenttweaker.trade_buy_enderpearl.name=Buy an Ender Pearl
+item.contenttweaker.trade_buy_seeds.name=Buy Seeds
+item.contenttweaker.trade_buy_rareseeds.name=Buy Rare Seeds
+item.contenttweaker.trade_buy_train.name=Order Steam Locomotive
+
+item.contenttweaker.researchtoken.name=The Research Project
+item.contenttweaker.advresearchtoken.name=Advanced Rocket Science
+item.contenttweaker.observatoryresearchtoken.name=Research into Optical Systems
+item.contenttweaker.stationresearchtoken.name=Research of Space Station Technology
+item.contenttweaker.miningresearchtoken.name=Research of Asteroid Mining
+
+
+item.contenttweaker.warptoken.name=Warp Systems
+item.contenttweaker.terraformingtoken.name=Terraforming Technology
+item.contenttweaker.gasminingtoken.name=Gas Mining Research
+
+
+

@@ -1,0 +1,39 @@
+{
+    
+    "machine": "concreteplant",
+    "registryName": "concreteplant_1",
+
+    "recipeTime": 5,
+
+    "requirements": [ 
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 512
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:sand",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:gravel",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:clay",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "advancedrocketry:concrete",
+            "amount": 3
+        }
+    ]
+}

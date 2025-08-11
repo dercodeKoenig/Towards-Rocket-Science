@@ -1,0 +1,100 @@
+<Asteroids>
+	<asteroid name="Small A." distance="10" mass="800" massVariability="0.5" minLevel="0" probability="5" richness="0.2" richnessVariability="0.5">
+		<ore itemStack="minecraft:iron_ore" chance="35" />
+		<ore itemStack="minecraft:gold_ore" chance="30" />
+		<ore itemStack="minecraft:redstone_ore" chance="10" />
+        <ore itemStack="minecraft:diamond_ore" chance="1" />
+		<ore itemStack="minecraft:clay_ball" chance="10" />
+		
+	</asteroid>
+	<asteroid name="Ir. Enriched A." distance="100" mass="100" massVariability="0.5" minLevel="0" probability="0.5" richness="0.2" richnessVariability="0.3">
+		<ore itemStack="minecraft:iron_ore" chance="25" />
+		<ore itemStack="libVulpes:ore0 10" chance="1" />
+	</asteroid>
+	
+    <asteroid name="Large A." distance="70" mass="4000" massVariability="0.5" minLevel="0" probability="2" richness="0.8" richnessVariability="0.5">
+                <ore itemStack="minecraft:iron_ore" chance="15" />
+                <ore itemStack="minecraft:gold_ore" chance="10" />
+                <ore itemStack="minecraft:redstone_ore" chance="10" />
+                <ore itemStack="minecraft:coal 1" chance="20" />
+                <ore itemStack="minecraft:diamond_ore" chance="2" />
+				<ore itemStack="minecraft:emerald_ore" chance="2" />
+				<ore itemStack="minecraft:clay_ball" chance="10" />
+				<ore itemStack="minecraft:lapis_lazuli" chance="10" />
+				
+				
+    </asteroid>
+	
+	<asteroid name="End A." distance="70" mass="500" massVariability="0.5" minLevel="0" probability="1" richness="0.5" richnessVariability="0.5">
+                <ore itemStack="minecraft:chorus_plant" chance="5" />
+                <ore itemStack="minecraft:chorus_flower" chance="5" />
+                <ore itemStack="minecraft:obsidian" chance="10" />
+                <ore itemStack="minecraft:diamond_ore" chance="2" />
+				<ore itemStack="minecraft:end_rod" chance="1" />
+				<ore itemStack="minecraft:end_stone" chance="20" />
+				<ore itemStack="minecraft:slime_ball" chance="1" />
+				<ore itemStack="minecraft:ender_pearl" chance="10" />
+				<ore itemStack="minecraft:chorus_fruit" chance="2" />
+				
+				
+				
+				
+				
+    </asteroid>
+	
+	<asteroid name="Nether A." distance="70" mass="500" massVariability="0.5" minLevel="0" probability="2" richness="0.5" richnessVariability="0.5">
+                <ore itemStack="minecraft:netherrack" chance="10" />
+                <ore itemStack="minecraft:soul_sand" chance="5" />
+                <ore itemStack="minecraft:glowstone" chance="1" />
+				<ore itemStack="minecraft:nether_quartz_ore" chance="2" />
+				<ore itemStack="minecraft:blaze_rod" chance="3" />
+				<ore itemStack="minecraft:ghast_tear" chance="0.5" />
+				<ore itemStack="minecraft:nether_wart" chance="1" />
+				<ore itemStack="minecraft:ender_pearl" chance="1" />
+				<ore itemStack="minecraft:magma_cream" chance="1" />
+				<ore itemStack="minecraft:spider_eye" chance="0.5" />
+				
+				
+				
+    </asteroid>
+	
+	<asteroid name="Glowing A." distance="50" mass="500" massVariability="0.5" minLevel="0" probability="1" richness="0.5" richnessVariability="0.5">
+                
+                <ore itemStack="minecraft:glowstone" chance="1" />
+				<ore itemStack="minecraft:blaze_powder" chance="1" />
+				<ore itemStack="minecraft:redstone" chance="1" />
+				<ore itemStack="minecraft:magma_cream" chance="0.2" />
+				
+				
+				
+    </asteroid>
+	
+	<asteroid name="Coal A." distance="10" mass="1000" massVariability="0.5" minLevel="0" probability="3" richness="0.5" richnessVariability="0.5">
+                <ore itemStack="minecraft:coal" chance="30" />
+                <ore itemStack="minecraft:diamond" chance="1" />
+				
+    </asteroid>
+	
+	<asteroid name="Large Coal A." distance="10" mass="5000" massVariability="0.5" minLevel="0" probability="0.5" richness="0.5" richnessVariability="0.5">
+                <ore itemStack="minecraft:coal" chance="30" />
+                <ore itemStack="minecraft:diamond" chance="1" />
+				
+    </asteroid>
+	
+	<asteroid name="Ice A." distance="10" mass="2000" massVariability="0.5" minLevel="0" probability="1" richness="0.5" richnessVariability="0.5">
+                <ore itemStack="minecraft:snowball" chance="30" />
+				<ore itemStack="minecraft:frosted_ice" chance="30" />
+				
+    </asteroid>
+	
+	
+	
+	 <asteroid name="Starship" distance="100" mass="1" massVariability="0" probability="1" richness="1.0" richnessVariability="0.0">
+                <ore itemStack="contenttweaker:planet_artifact_volcanic" chance="1" />
+                <ore itemStack="contenttweaker:planet_artifact_ferric_sand" chance="1" />
+                <ore itemStack="contenttweaker:planet_artifact_strange_dust" chance="1" />
+                <ore itemStack="contenttweaker:planet_artifact_gas_giant" chance="1" />
+                <ore itemStack="contenttweaker:planet_artifact_ice" chance="1" />
+            </asteroid>
+	
+</Asteroids>

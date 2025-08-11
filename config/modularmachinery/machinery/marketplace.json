@@ -1,0 +1,1983 @@
+{
+	"registryname": "marketplace",
+    "localizedname": "Market Place",
+	"color": "4A1801",
+	
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:dark_oak_stairs@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:spruce_stairs@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:chest@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:chest@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:spruce_stairs@4"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": -16,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:cobblestone@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:furnace@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": -7,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": -16,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": -7,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": -16,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:furnace@2"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:spruce_stairs@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": -16,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -16,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": -7,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": -7,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": -16,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": -16,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -16,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": -16,
+            "elements": [
+                "minecraft:spruce_stairs@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": -16,
+            "elements": [
+                "minecraft:wooden_slab@9"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -16,
+            "elements": [
+                "minecraft:spruce_stairs@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -16,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:planks@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:furnace@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": -7,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:furnace@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": -6,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": -6,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": -6,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": -6,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": -6,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": -6,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": -6,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": -7,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": -6,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:dark_oak_stairs@5"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": -15,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "minecraft:spruce_stairs@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "minecraft:wooden_slab@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "minecraft:wooden_slab@9"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "minecraft:wooden_slab@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "minecraft:spruce_stairs@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "minecraft:planks@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "minecraft:trapdoor@11"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "minecraft:planks@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "minecraft:dark_oak_stairs@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -15,
+            "elements": [
+                "minecraft:spruce_stairs@7"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -15,
+            "elements": [
+                "minecraft:trapdoor@8"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": -6,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": -5,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": -14,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": -5,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": -5,
+            "elements": [
+                "minecraft:wool@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": -14,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": -5,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": -5,
+            "elements": [
+                "minecraft:wool@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": -5,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": -6,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": -5,
+            "elements": [
+                "minecraft:wool@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": -6,
+            "elements": [
+                "minecraft:planks@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": -5,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "minecraft:spruce_stairs@7"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": -14,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": -14,
+            "elements": [
+                "minecraft:stonebrick@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": -14,
+            "elements": [
+                "minecraft:stone_brick_stairs@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": -14,
+            "elements": [
+                "minecraft:stone_brick_stairs@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": -14,
+            "elements": [
+                "minecraft:stonebrick@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": -4,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": -4,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": -4,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": -4,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "minecraft:cobblestone@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": -5,
+            "elements": [
+                "minecraft:dark_oak_stairs@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -14,
+            "elements": [
+                "minecraft:wooden_slab@9"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -14,
+            "elements": [
+                "minecraft:planks@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": -4,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": -4,
+            "elements": [
+                "minecraft:wool@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": -4,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": -5,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": -4,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": -5,
+            "elements": [
+                "minecraft:wooden_slab@9"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": -13,
+            "elements": [
+                "minecraft:stone_brick_stairs@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": -13,
+            "elements": [
+                "minecraft:stone_brick_stairs@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "minecraft:wool@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -5,
+            "elements": [
+                "minecraft:chest@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -5,
+            "elements": [
+                "minecraft:cobblestone@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": -4,
+            "elements": [
+                "minecraft:dark_oak_stairs@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -13,
+            "elements": [
+                "minecraft:wooden_slab@9"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -13,
+            "elements": [
+                "minecraft:planks@1"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": -4,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": -4,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "minecraft:wool@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": -4,
+            "elements": [
+                "minecraft:planks@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "minecraft:wooden_slab@9"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": -12,
+            "elements": [
+                "minecraft:stone_brick_stairs@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": -12,
+            "elements": [
+                "minecraft:stone_brick_stairs@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "minecraft:chest@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "minecraft:cobblestone@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": -3,
+            "elements": [
+                "minecraft:dark_oak_stairs@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -12,
+            "elements": [
+                "minecraft:wooden_slab@9"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -12,
+            "elements": [
+                "minecraft:planks@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": -2,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": -11,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": -2,
+            "elements": [
+                "minecraft:wool@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": -11,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": -2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": -3,
+            "elements": [
+                "minecraft:planks@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": -2,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "minecraft:spruce_stairs@5"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "minecraft:trapdoor@10"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "minecraft:stone_brick_stairs@7"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "minecraft:stone_brick_stairs@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "minecraft:stone_brick_stairs@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "minecraft:spruce_stairs@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "minecraft:wooden_slab@9"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": -11,
+            "elements": [
+                "minecraft:stonebrick@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": -11,
+            "elements": [
+                "minecraft:stone_brick_stairs@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": -11,
+            "elements": [
+                "minecraft:stone_brick_stairs@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": -11,
+            "elements": [
+                "minecraft:stonebrick@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "minecraft:crafting_table@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "minecraft:cobblestone@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "minecraft:dark_oak_stairs@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -11,
+            "elements": [
+                "minecraft:spruce_stairs@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -11,
+            "elements": [
+                "minecraft:trapdoor@9"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": -10,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": -2,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "minecraft:wooden_slab@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": -10,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": -10,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "minecraft:spruce_stairs@5"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "minecraft:spruce_stairs@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "minecraft:wooden_slab@9"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": -10,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "minecraft:chest@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "minecraft:cobblestone@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "minecraft:dark_oak_stairs@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -10,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": -10,
+            "elements": [
+                "minecraft:spruce_stairs@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": -10,
+            "elements": [
+                "minecraft:wooden_slab@9"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -10,
+            "elements": [
+                "minecraft:spruce_stairs@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -10,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "minecraft:planks@1"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "minecraft:spruce_stairs@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:cobblestone@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "minecraft:spruce_stairs@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:cobblestone@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:cobblestone@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:cobblestone@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "minecraft:wooden_slab@9"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": -9,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:cobblestone@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:cobblestone@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:cobblestone@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:planks@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "minecraft:chest@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "minecraft:cobblestone@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:spruce_stairs@7"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:spruce_stairs@7"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:spruce_stairs@7"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:spruce_stairs@7"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:planks@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:planks@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:planks@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:planks@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:planks@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:planks@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": -16,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": -16,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": -16,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": -16,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": -16,
+            "elements": [
+                "minecraft:dark_oak_fence@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:log@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:dark_oak_stairs@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:dark_oak_stairs@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:dark_oak_stairs@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:dark_oak_stairs@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:dark_oak_stairs@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:dark_oak_stairs@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:dark_oak_stairs@6"
+            ]
+        }
+    ]}

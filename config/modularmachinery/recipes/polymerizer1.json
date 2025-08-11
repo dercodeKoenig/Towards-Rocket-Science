@@ -1,0 +1,27 @@
+{
+    
+    "machine": "polymerizer",
+    "registryName": "polymerizer_1",
+
+    "recipeTime": 1,
+
+    "requirements": [ 
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 512
+        },
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "moltenplastic",
+            "amount": 2
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "propene",
+            "amount": 2
+        }
+    ]
+}

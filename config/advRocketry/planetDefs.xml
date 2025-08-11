@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<galaxy>
+
+	<star blackHole="false" name="Solar system" numGasGiants="0" numPlanets="0" size="1.0" temp="100" x="-320" y="-60">
+        <planet DIMID="0" dimMapping="" name="Earth">
+            <isKnown>true</isKnown>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>100</gravitationalMultiplier>
+            <orbitalDistance>100</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+			
+            <planet DIMID="2" customIcon="Moon" name="Luna">
+                <isKnown>true</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>1.0,1.0,1.0</skyColor>
+                <gravitationalMultiplier>30</gravitationalMultiplier>
+                <orbitalDistance>100</orbitalDistance>
+                <orbitalTheta>0</orbitalTheta>
+                <orbitalPhi>0</orbitalPhi>
+                <retrograde>false</retrograde>
+                <rotationalPeriod>24000</rotationalPeriod>
+                <atmosphereDensity>0</atmosphereDensity>
+            </planet>
+        </planet>
+        <planet DIMID="3" customIcon="asteroid" name="Polis Massa Field">
+            <isKnown>true</isKnown>
+            <fogColor>0.1,0.1,0.1</fogColor>
+            <skyColor>0.1,0.1,0.1</skyColor>
+            <gravitationalMultiplier>25</gravitationalMultiplier>
+            <orbitalDistance>40</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>12000</rotationalPeriod>
+            <atmosphereDensity>0</atmosphereDensity>
+            <genType>2</genType>
+        </planet>
+    </star>
+	
+    <star blackHole="false" name="PAL binary system" numGasGiants="0" numPlanets="0" size="1.0" temp="100" x="-110" y="-160">
+        <star blackHole="false" separation="-40.0" size="1.5" temp="0"/>
+        <planet DIMID="4" customIcon="Lava" name="Mustafar">
+            <isKnown>false</isKnown>
+            <fogColor>1.0,1.0,0.5</fogColor>
+            <skyColor>1.0,1.0,0.5</skyColor>
+            <gravitationalMultiplier>120</gravitationalMultiplier>
+            <orbitalDistance>30</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>12000</rotationalPeriod>
+            <atmosphereDensity>120</atmosphereDensity>
+            <biomeIds>advancedrocketry:volcanic;30</biomeIds>
+			<oceanBlock>minecraft:lava</oceanBlock>
+            <artifact>contenttweaker:planet_artifact_volcanic 0 1</artifact>
+        </planet>
+        <planet DIMID="5" customIcon="DesertWorld" name="Tatooine">
+            <isKnown>false</isKnown>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>90</gravitationalMultiplier>
+            <orbitalDistance>110</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>26000</rotationalPeriod>
+            <atmosphereDensity>80</atmosphereDensity>
+            <seaLevel>50</seaLevel>
+            <biomeIds>advancedrocketry:hotdryrock;30,minecraft:desert;30,minecraft:desert_hills;30,minecraft:mesa;30,minecraft:mesa_rock;30,minecraft:mesa_clear_rock;30</biomeIds>
+            <artifact>contenttweaker:planet_artifact_ferric_sand 0 1</artifact>
+        </planet>
+    </star>
+	
+	<star blackHole="true" name="TON system" numGasGiants="0" numPlanets="0" size="3" temp="80" x="-190" y="-90">
+	      <planet DIMID="109" customIcon="GasGiantBrown" name="Nitra">
+            <isKnown>false</isKnown>
+            <hasRings>true</hasRings>
+            <ringColor>0.4,0.4,0.7</ringColor>
+            <GasGiant>true</GasGiant>
+            <gas>nitrogen</gas>
+			<gas>oxygen</gas>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>200</gravitationalMultiplier>
+            <orbitalDistance>100</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>48000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+				<artifact>contenttweaker:planet_artifact_gas_giant</artifact>
+        </planet>
+		
+        <planet DIMID="110" customIcon="GasGiantBlue" name="Hiara">
+            <isKnown>false</isKnown>
+            <GasGiant>true</GasGiant>
+            <gas>hydrogen</gas>
+            <gas>nitrogen</gas>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>100</gravitationalMultiplier>
+            <orbitalDistance>350</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>56000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+				<artifact>contenttweaker:planet_artifact_gas_giant</artifact>
+        </planet>
+		
+        <planet DIMID="111" customIcon="GasGiantBlue" name="Tana">
+            <isKnown>false</isKnown>
+            <GasGiant>true</GasGiant>
+            <gas>oxygen</gas>
+			<gas>hydrogen</gas>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>190</gravitationalMultiplier>
+            <orbitalDistance>230</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>38000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+			<artifact>contenttweaker:planet_artifact_gas_giant</artifact>
+			
+				<planet DIMID="112" dimMapping="" customIcon="EarthLike" name="Endor">
+					<isKnown>true</isKnown>
+					<fogColor>1.0,1.0,1.0</fogColor>
+					<skyColor>1.0,1.0,1.0</skyColor>
+					<gravitationalMultiplier>90</gravitationalMultiplier>
+					<orbitalDistance>120</orbitalDistance>
+					<orbitalTheta>0</orbitalTheta>
+					<orbitalPhi>0</orbitalPhi>
+					<retrograde>false</retrograde>
+					<rotationalPeriod>24000</rotationalPeriod>
+					<atmosphereDensity>100</atmosphereDensity>
+					<artifact>contenttweaker:planet_artifact_gas_giant</artifact>
+				</planet>
+		
+        </planet>
+		
+	</star>
+
+	<star blackHole="false" name="Dagobah system" numGasGiants="0" numPlanets="0" size="0.5" temp="40" x="-50" y="-200">		
+		<planet DIMID="113" dimMapping="" customIcon="WaterWorld" name="Dagobah">
+            <isKnown>true</isKnown>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>90</gravitationalMultiplier>
+            <orbitalDistance>30</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+        </planet>
+	</star>
+	
+	<star blackHole="false" name="Coruscant" numGasGiants="0" numPlanets="0" size="1.9" temp="100" x="-270" y="-150">	
+			<planet DIMID="114" dimMapping="" customIcon="EarthLike" name="Coruscant">
+            <isKnown>true</isKnown>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>100</gravitationalMultiplier>
+            <orbitalDistance>185</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+        </planet>
+	<planet DIMID="115" customIcon="asteroid" name="Obo Rin Asteroid Field">
+            <isKnown>true</isKnown>
+            <fogColor>0.1,0.1,0.1</fogColor>
+            <skyColor>0.1,0.1,0.1</skyColor>
+            <gravitationalMultiplier>55</gravitationalMultiplier>
+            <orbitalDistance>230</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>12000</rotationalPeriod>
+            <atmosphereDensity>0</atmosphereDensity>
+            <genType>2</genType>
+        </planet>
+	<planet DIMID="116" customIcon="asteroid" name="Covey Asteroid Field">
+            <isKnown>true</isKnown>
+            <fogColor>0.1,0.1,0.1</fogColor>
+            <skyColor>0.1,0.1,0.1</skyColor>
+            <gravitationalMultiplier>25</gravitationalMultiplier>
+            <orbitalDistance>150</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>12000</rotationalPeriod>
+            <atmosphereDensity>0</atmosphereDensity>
+            <genType>2</genType>
+        </planet>
+	</star>
+	
+    <star blackHole="false" name="Hoth system" numGasGiants="0" numPlanets="0" size="0.4" temp="50" x="-90" y="-90">	
+	<star blackHole="true" name="NIR" separation="10" size="0.5"></star>
+	
+	<planet DIMID="117" customIcon="IceWorld" name="Planet Hoth">
+            <isKnown>false</isKnown>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>80</gravitationalMultiplier>
+            <orbitalDistance>30</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>12000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+            <biomeIds>advancedrocketry:crystalchasms,10,11,12,13</biomeIds>
+			<artifact>contenttweaker:planet_artifact_ice</artifact>
+			
+			<planet DIMID="118" customIcon="Moon" name="Little Star">
+                <isKnown>true</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>1.0,1.0,1.0</skyColor>
+                <gravitationalMultiplier>10</gravitationalMultiplier>
+                <orbitalDistance>20</orbitalDistance>
+                <orbitalTheta>0</orbitalTheta>
+                <orbitalPhi>0</orbitalPhi>
+                <retrograde>false</retrograde>
+                <rotationalPeriod>4000</rotationalPeriod>
+                <atmosphereDensity>0</atmosphereDensity>
+			<artifact>contenttweaker:planet_artifact_ice</artifact>
+            </planet>
+			
+        </planet>
+	</star>
+	
+    <star blackHole="false" name="Yavin star" numGasGiants="0" numPlanets="0" size="1.8" temp="120" x="-400" y="-100">		
+	 <planet DIMID="119" customIcon="WaterWorld" name="Yavin">
+            <isKnown>true</isKnown>
+            <fogColor>0.8,1.0,1.0</fogColor>
+            <skyColor>0.8,1.0,1.0</skyColor>
+            <gravitationalMultiplier>200</gravitationalMultiplier>
+            <orbitalDistance>150</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>32000</rotationalPeriod>
+            <atmosphereDensity>150</atmosphereDensity>
+            <seaLevel>70</seaLevel>
+            <biomeIds>advancedrocketry:deepswamp</biomeIds>
+			
+			 <planet DIMID="120" dimMapping="" customIcon="EarthLike" name="Yavin 4">
+				<isKnown>true</isKnown>
+				<fogColor>0.8,1.0,1.0</fogColor>
+				<skyColor>0.8,1.0,1.0</skyColor>
+				<gravitationalMultiplier>60</gravitationalMultiplier>
+				<orbitalDistance>290</orbitalDistance>
+				<orbitalTheta>0</orbitalTheta>
+				<orbitalPhi>0</orbitalPhi>
+				<retrograde>false</retrograde>
+				<rotationalPeriod>32000</rotationalPeriod>
+				<atmosphereDensity>80</atmosphereDensity>
+				<seaLevel>70</seaLevel>
+        </planet>
+		
+			 <planet DIMID="121" customIcon="WaterWorld" name="Yavin 8">
+				<isKnown>true</isKnown>
+				<fogColor>0.8,1.0,1.0</fogColor>
+				<skyColor>0.8,1.0,1.0</skyColor>
+				<gravitationalMultiplier>70</gravitationalMultiplier>
+				<orbitalDistance>160</orbitalDistance>
+				<orbitalTheta>0</orbitalTheta>
+				<orbitalPhi>0</orbitalPhi>
+				<retrograde>false</retrograde>
+				<rotationalPeriod>32000</rotationalPeriod>
+				<atmosphereDensity>90</atmosphereDensity>
+				<seaLevel>70</seaLevel>
+				<biomeIds>0,2,16,17,18,25,35,36,37,38,39</biomeIds>
+        </planet>
+		
+        </planet>
+	</star>
+	
+	<star blackHole="false" name="The dark system" numGasGiants="0" numPlanets="0" size="1.2" temp="120" x="-250" y="-80">		
+	
+	<planet DIMID="122" customIcon="EarthLike" name="Kashyyyk">
+                <isKnown>false</isKnown>
+                <fogColor>0.5,0.7,0.6</fogColor>
+                <skyColor>0.5,0.7,0.6</skyColor>
+                <gravitationalMultiplier>100</gravitationalMultiplier>
+                <orbitalDistance>190</orbitalDistance>
+                <orbitalTheta>0</orbitalTheta>
+                <orbitalPhi>0</orbitalPhi>
+                <retrograde>false</retrograde>
+                <rotationalPeriod>16000</rotationalPeriod>
+                <atmosphereDensity>80</atmosphereDensity>
+                <seaLevel>60</seaLevel>
+                <biomeIds>advancedrocketry:stormland,0,16,7</biomeIds>
+				<artifact>contenttweaker:planet_artifact_strange_dust</artifact>
+            </planet>
+	<planet DIMID="123" customIcon="EarthLike" name="Trandosha">
+                <isKnown>false</isKnown>
+                <fogColor>0.5,0.7,0.6</fogColor>
+                <skyColor>0.5,0.7,0.6</skyColor>
+                <gravitationalMultiplier>100</gravitationalMultiplier>
+                <orbitalDistance>130</orbitalDistance>
+                <orbitalTheta>0</orbitalTheta>
+                <orbitalPhi>0</orbitalPhi>
+                <retrograde>false</retrograde>
+                <rotationalPeriod>16000</rotationalPeriod>
+                <atmosphereDensity>80</atmosphereDensity>
+                <seaLevel>80</seaLevel>
+                <biomeIds>advancedrocketry:stormland,0,16,23</biomeIds>
+				<artifact>contenttweaker:planet_artifact_strange_dust</artifact>
+            </planet>
+	</star>
+	
+	
+</galaxy>

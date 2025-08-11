@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<galaxy>
+
+	<star blackHole="false" name="TON system" numGasGiants="0" numPlanets="0" size="2.0" temp="50" x="90" y="10">
+	<star blackHole="true" name="TON 2" separation="60"></star>
+	
+	<planet DIMID="112" dimMapping="" customIcon="EarthLike" name="Kashyyyk">
+            <isKnown>false</isKnown>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>100</gravitationalMultiplier>
+            <orbitalDistance>120</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+            <generateCraters>true</generateCraters>
+            <generateCaves>true</generateCaves>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>true</generateStructures>
+            <generateGeodes>true</generateGeodes>
+            <biomeIds></biomeIds>
+            <artifact>contenttweaker:planet_artifact_strange_dust</artifact>
+            <oceanBlock>minecraft:water</oceanBlock>
+        </planet>
+		
+	<planet DIMID="113" dimMapping="" customIcon="WaterWorld" name="Dagobah">
+            <isKnown>false</isKnown>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>100</gravitationalMultiplier>
+            <orbitalDistance>100</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+            <generateCraters>true</generateCraters>
+            <generateCaves>true</generateCaves>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>true</generateStructures>
+            <generateGeodes>true</generateGeodes>
+            <biomeIds></biomeIds>
+            <artifact>contenttweaker:planet_artifact_strange_dust</artifact>
+            <oceanBlock>minecraft:water</oceanBlock>
+        </planet>
+	
+	<planet DIMID="114" dimMapping="" customIcon="EarthLike" name="Coruscant">
+            <isKnown>false</isKnown>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>80</gravitationalMultiplier>
+            <orbitalDistance>135</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+            <generateCraters>true</generateCraters>
+            <generateCaves>true</generateCaves>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>true</generateStructures>
+            <generateGeodes>true</generateGeodes>
+            <biomeIds></biomeIds>
+            <artifact>contenttweaker:planet_artifact_strange_dust</artifact>
+            <oceanBlock>minecraft:water</oceanBlock>
+        </planet>
+	
+		
+	<planet DIMID="115" customIcon="IceWorld" name="Hoth">
+            <isKnown>false</isKnown>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>50</gravitationalMultiplier>
+            <orbitalDistance>200</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+            <generateCraters>true</generateCraters>
+            <generateCaves>true</generateCaves>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>true</generateStructures>
+            <generateGeodes>true</generateGeodes>
+            <biomeIds>advancedrocketry:crystalchasms</biomeIds>
+            <artifact>contenttweaker:planet_artifact_strange_dust</artifact>
+            <oceanBlock>minecraft:water</oceanBlock>
+        </planet>
+	
+	</star>
+    <star blackHole="false" name="Solar 1" numGasGiants="0" numPlanets="0" size="1.0" temp="100" x="0" y="0">
+        <planet DIMID="0" dimMapping="" name="Earth">
+            <isKnown>false</isKnown>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>100</gravitationalMultiplier>
+            <orbitalDistance>100</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateCaves>false</generateCaves>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <planet DIMID="2" customIcon="Moon" name="Luna">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>1.0,1.0,1.0</skyColor>
+                <gravitationalMultiplier>30</gravitationalMultiplier>
+                <orbitalDistance>100</orbitalDistance>
+                <orbitalTheta>0</orbitalTheta>
+                <orbitalPhi>0</orbitalPhi>
+                <retrograde>false</retrograde>
+                <rotationalPeriod>24000</rotationalPeriod>
+                <atmosphereDensity>0</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateCaves>false</generateCaves>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <biomeIds>advancedrocketry:moon</biomeIds>
+            </planet>
+        </planet>
+        <planet DIMID="3" customIcon="CarbonWorld" name="Polis Massa">
+            <isKnown>false</isKnown>
+            <fogColor>0.1,0.1,0.1</fogColor>
+            <skyColor>0.1,0.1,0.1</skyColor>
+            <gravitationalMultiplier>25</gravitationalMultiplier>
+            <orbitalDistance>40</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>12000</rotationalPeriod>
+            <atmosphereDensity>10</atmosphereDensity>
+            <generateCraters>true</generateCraters>
+            <generateCaves>false</generateCaves>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <genType>2</genType>
+            <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+        </planet>
+        <planet DIMID="4" customIcon="Lava" name="Mustafar">
+            <isKnown>false</isKnown>
+            <fogColor>1.0,1.0,0.5</fogColor>
+            <skyColor>1.0,1.0,0.5</skyColor>
+            <gravitationalMultiplier>120</gravitationalMultiplier>
+            <orbitalDistance>20</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>12000</rotationalPeriod>
+            <atmosphereDensity>300</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateCaves>false</generateCaves>
+            <generateVolcanos>true</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>true</generateGeodes>
+            <biomeIds>advancedrocketry:volcanic</biomeIds>
+            <artifact>contenttweaker:planet_artifact_volcanic</artifact>
+            <oceanBlock>minecraft:lava</oceanBlock>
+        </planet>
+        <planet DIMID="5" customIcon="DesertWorld" name="Tatooine">
+            <isKnown>false</isKnown>
+            <fogColor>1.0,1.0,0.9</fogColor>
+            <skyColor>1.0,1.0,0.9</skyColor>
+            <gravitationalMultiplier>90</gravitationalMultiplier>
+            <orbitalDistance>70</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>26000</rotationalPeriod>
+            <atmosphereDensity>80</atmosphereDensity>
+            <generateCraters>true</generateCraters>
+            <generateCaves>false</generateCaves>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>true</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <seaLevel>50</seaLevel>
+            <biomeIds>advancedrocketry:hotdryrock,minecraft:desert,minecraft:desert_hills,minecraft:mesa,minecraft:mesa_rock,minecraft:mesa_clear_rock</biomeIds>
+            <artifact>contenttweaker:planet_artifact_ferric_sand</artifact>
+            <oceanBlock>minecraft:water</oceanBlock>
+        </planet>
+        <planet DIMID="6" customIcon="WaterWorld" name="Javin">
+            <isKnown>false</isKnown>
+            <fogColor>0.8,1.0,1.0</fogColor>
+            <skyColor>0.8,1.0,1.0</skyColor>
+            <gravitationalMultiplier>140</gravitationalMultiplier>
+            <orbitalDistance>160</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>32000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+            <generateCraters>true</generateCraters>
+            <generateCaves>false</generateCaves>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>true</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <seaLevel>70</seaLevel>
+				<artifact>contenttweaker:planet_artifact_strange_dust</artifact>
+            <biomeIds>advancedrocketry:deepswamp</biomeIds>
+			
+            <planet DIMID="7" customIcon="EarthLike" name="Endor">
+                <isKnown>false</isKnown>
+                <fogColor>0.5,0.7,0.6</fogColor>
+                <skyColor>0.5,0.7,0.6</skyColor>
+                <gravitationalMultiplier>50</gravitationalMultiplier>
+                <orbitalDistance>30</orbitalDistance>
+                <orbitalTheta>0</orbitalTheta>
+                <orbitalPhi>0</orbitalPhi>
+                <retrograde>false</retrograde>
+                <rotationalPeriod>16000</rotationalPeriod>
+                <atmosphereDensity>80</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateCaves>false</generateCaves>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>true</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <seaLevel>60</seaLevel>
+                <biomeIds>advancedrocketry:stormland</biomeIds>
+                <oceanBlock>minecraft:water</oceanBlock>
+				<artifact>contenttweaker:planet_artifact_strange_dust</artifact>
+            </planet>
+            <oceanBlock>minecraft:water</oceanBlock>
+        </planet>
+        <planet DIMID="90" customIcon="GasGiantBrown" name="Nitra">
+            <isKnown>false</isKnown>
+            <hasRings>true</hasRings>
+            <ringColor>0.4,0.4,0.7</ringColor>
+            <GasGiant>true</GasGiant>
+            <gas>nitrogen</gas>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>160</gravitationalMultiplier>
+            <orbitalDistance>300</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>48000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateCaves>false</generateCaves>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+				<artifact>contenttweaker:planet_artifact_gas_giant</artifact>
+        </planet>
+        <planet DIMID="91" customIcon="GasGiantBlue" name="Oxygen-Olga">
+            <isKnown>false</isKnown>
+            <GasGiant>true</GasGiant>
+            <gas>oxygen</gas>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>320</gravitationalMultiplier>
+            <orbitalDistance>230</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>38000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateCaves>false</generateCaves>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+				<artifact>contenttweaker:planet_artifact_gas_giant</artifact>
+        </planet>
+        <planet DIMID="92" customIcon="GasGiantBlue" name="Hydrogen-Hubert">
+            <isKnown>false</isKnown>
+            <GasGiant>true</GasGiant>
+            <gas>hydrogen</gas>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>200</gravitationalMultiplier>
+            <orbitalDistance>350</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <rotationalPeriod>56000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateCaves>false</generateCaves>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+				<artifact>contenttweaker:planet_artifact_gas_giant</artifact>
+        </planet>
+    </star>
+</galaxy>
