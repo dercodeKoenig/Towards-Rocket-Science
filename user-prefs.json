@@ -1,0 +1,3380 @@
+{
+  "export": {
+    "filesSelection": [
+      {
+        "path": "config",
+        "isSelected": true
+      },
+      {
+        "path": "config\\acronym",
+        "isSelected": true
+      },
+      {
+        "path": "config\\acronym\\base",
+        "isSelected": true
+      },
+      {
+        "path": "config\\acronym\\base\\General.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\acronym\\contenttweaker",
+        "isSelected": true
+      },
+      {
+        "path": "config\\acronym\\contenttweaker\\General.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\acronym\\saved",
+        "isSelected": true
+      },
+      {
+        "path": "config\\acronym\\saved\\material_parts_contenttweaker-original.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\acronym\\saved\\material_parts_contenttweaker.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\acronym\\saved\\saved_sub_blocks_contenttweaker-original.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\acronym\\saved\\saved_sub_blocks_contenttweaker.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\acronym\\material_system.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\aluminum.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\amethyst.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\coal.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\cobalt.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\copper.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\diamond.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\emerald.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\gold.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\iridium.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\iron.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\lapis.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\lead.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\nickel.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\palladium.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\platinum.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\redstone.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\rhodium.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\ruby.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\ruthenium.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\sapphire.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\silver.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\tin.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\topaz.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\uranium.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\zinc.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaGen",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaGen\\andesite.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaGen\\coal.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaGen\\custom.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaGen\\diamond.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaGen\\diorite.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaGen\\dirt.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaGen\\emerald.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaGen\\gold.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaGen\\granite.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaGen\\gravel.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaGen\\iron.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaGen\\lapis.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaGen\\quartz.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaGen\\redstone.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaGen\\silverfish.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\adlods.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advRocketry",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advRocketry\\advancedRocketry.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advRocketry\\asteroidConfig.xml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advRocketry\\Centrifuge.xml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advRocketry\\ChemicalReactor.xml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advRocketry\\Crystallizer.xml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advRocketry\\CuttingMachine.xml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advRocketry\\ElectricArcFurnace.xml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advRocketry\\Electrolyser.xml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advRocketry\\Lathe.xml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advRocketry\\old_planetDefs.xml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advRocketry\\oreConfig.xml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advRocketry\\planetDefs.xml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advRocketry\\PrecisionAssembler.xml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advRocketry\\PrecisionLaserEtcher.xml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advRocketry\\RollingMachine.xml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advRocketry\\SmallPlatePress.xml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advRocketry\\weights.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\bettercaves-1_12_2",
+        "isSelected": true
+      },
+      {
+        "path": "config\\bettermineshafts",
+        "isSelected": true
+      },
+      {
+        "path": "config\\bettermineshafts\\1_12_2",
+        "isSelected": true
+      },
+      {
+        "path": "config\\bettermineshafts\\1_12_2\\biomeTags.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\bettermineshafts\\1_12_2\\README.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\bettermineshafts\\1_12_2\\variants.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\bettermineshafts\\README.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\betterquesting",
+        "isSelected": true
+      },
+      {
+        "path": "config\\betterquesting\\resources",
+        "isSelected": true
+      },
+      {
+        "path": "config\\betterquesting\\DefaultQuests - Kopie.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\betterquesting\\DefaultQuests.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\betterquesting\\questbook.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\alps.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\alps_foothills.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\bamboo_forest.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\bayou.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\bog.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\boreal_forest.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\brushland.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\chaparral.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\cherry_blossom_grove.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\cold_desert.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\coniferous_forest.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\coral_reef.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\corrupted_sands.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\crag.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\dead_forest.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\dead_swamp.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\eucalyptus_forest.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\fen.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\flower_field.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\flower_island.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\fungi_forest.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\glacier.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\grassland.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\gravel_beach.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\grove.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\highland.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\kelp_forest.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\land_of_lakes.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\lavender_fields.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\lush_desert.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\lush_swamp.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\mangrove.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\maple_woods.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\marsh.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\meadow.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\moor.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\mountain.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\mountain_foothills.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\mystic_grove.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\oasis.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\ominous_woods.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\orchard.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\origin_beach.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\origin_island.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\outback.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\overgrown_cliffs.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\pasture.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\phantasmagoric_inferno.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\prairie.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\quagmire.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\rainforest.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\redwood_forest.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\redwood_forest_edge.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\sacred_springs.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\seasonal_forest.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\shield.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\shrubland.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\snowy_coniferous_forest.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\snowy_forest.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\snowy_tundra.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\steppe.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\temperate_rainforest.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\tropical_island.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\tropical_rainforest.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\tundra.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\undergarden.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\visceral_heap.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\volcanic_island.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\wasteland.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\wetland.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\white_beach.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\woodland.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\biomesoplenty\\xeric_shrubland.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\beaches.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\birch_forest.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\birch_forest_hills.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\desert.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\desert_hills.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\extreme_hills.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\extreme_hills_with_trees.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\forest.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\forest_hills.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\hell.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\ice_flats.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\ice_mountains.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\jungle.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\jungle_hills.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\mesa.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\mesa_clear_rock.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\mushroom_island.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\mutated_forest.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\ocean.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\plains.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\redwood_taiga.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\redwood_taiga_hills.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\roofed_forest.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\savanna.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\savanna_rock.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\sky.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\swampland.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\taiga.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\taiga_cold.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\taiga_cold_hills.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\defaults\\vanilla\\taiga_hills.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biomes\\Put biome config files here",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\biome_ids.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\gameplay.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomesoplenty\\misc.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\buildcraft",
+        "isSelected": true
+      },
+      {
+        "path": "config\\buildcraft\\assembly_recipes_pre_mj",
+        "isSelected": true
+      },
+      {
+        "path": "config\\buildcraft\\scripts",
+        "isSelected": true
+      },
+      {
+        "path": "config\\buildcraft\\detailed.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config\\buildcraft\\gui.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\buildcraft\\main.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\buildcraft\\objects.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\carryon-scripts",
+        "isSelected": true
+      },
+      {
+        "path": "config\\codechicken",
+        "isSelected": true
+      },
+      {
+        "path": "config\\codechicken\\supporters.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\codechicken\\supporters.marker",
+        "isSelected": true
+      },
+      {
+        "path": "config\\dsurround",
+        "isSelected": true
+      },
+      {
+        "path": "config\\dsurround\\dsurround.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\dynamictrees",
+        "isSelected": true
+      },
+      {
+        "path": "config\\dynamictrees\\dimensions.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\dynamictrees\\worldgen.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\animations",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\buttonscripts",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\customguis",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\customization",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\customization\\.disabled",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\customization\\l1.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\custom_locals",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\locals",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\locals\\de_de.local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\locals\\en_us.local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\locals\\pl_pl.local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\locals\\pt_br.local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\locals\\ru_ru.local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\locals\\uk_ua.local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\locals\\zh_cn.local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\minecraftwindow",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\minecraftwindow\\icons",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\panoramas",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\slideshows",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\config.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\customizablemenus.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\menu_identifiers.db",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\user_variables.db",
+        "isSelected": true
+      },
+      {
+        "path": "config\\FBP",
+        "isSelected": true
+      },
+      {
+        "path": "config\\FBP\\AnimBlockBlacklist.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\FBP\\FloatingMaterials.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\FBP\\Particle.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config\\FBP\\ParticleBlockBlacklist.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\biomesoplenty$dead_forest.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$frozen_ocean.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$mutated_ice_flats.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\forgeendertech.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\bookmarks.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\itemBlacklist.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\jei.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\searchColors.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\worldSettings.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\konkrete",
+        "isSelected": true
+      },
+      {
+        "path": "config\\konkrete\\locals",
+        "isSelected": true
+      },
+      {
+        "path": "config\\konkrete\\locals\\de_de.local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\konkrete\\locals\\en_us.local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\konkrete\\locals\\pl_pl.local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\konkrete\\locals\\pt_br.local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities\\general.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities\\profile_ancient.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities\\profile_atlantis.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities\\profile_biosphere.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities\\profile_bio_wasteland.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities\\profile_cavern.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities\\profile_chisel.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities\\profile_default.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities\\profile_floating.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities\\profile_nodamage.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities\\profile_onlycities.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities\\profile_rarecities.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities\\profile_realistic.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities\\profile_safe.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities\\profile_space.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities\\profile_tallbuildings.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities\\profile_wasteland.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities\\profile_waterbubbles.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lostcities\\profile_water_empty.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\mobends",
+        "isSelected": true
+      },
+      {
+        "path": "config\\mobends\\assets",
+        "isSelected": true
+      },
+      {
+        "path": "config\\mobends\\assets\\models",
+        "isSelected": true
+      },
+      {
+        "path": "config\\mobends\\assets\\models\\accessory_rulers_crown.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\mobends\\assets\\textures",
+        "isSelected": true
+      },
+      {
+        "path": "config\\mobends\\assets\\textures\\accessory_rulers_crown_diffuse.png",
+        "isSelected": true
+      },
+      {
+        "path": "config\\mobends\\assets\\textures\\accessory_rulers_crown_inked.png",
+        "isSelected": true
+      },
+      {
+        "path": "config\\mobends\\asset_manifest.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modularmachinery",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modularmachinery\\machinery",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modularmachinery\\machinery\\variables",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modularmachinery\\machinery\\variables\\casings.var.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modularmachinery\\machinery\\concretebrickmachine1.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modularmachinery\\machinery\\concretemixer1.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modularmachinery\\machinery\\concreteplant1.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modularmachinery\\machinery\\marketplace.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modularmachinery\\machinery\\polymerizer1.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modularmachinery\\machinery\\researchstation.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modularmachinery\\machinery\\rocketsciencecrafter.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modularmachinery\\recipes",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modularmachinery\\recipes\\concreteplant1.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modularmachinery\\recipes\\polymerizer1.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modularmachinery\\modularmachinery.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\netherex",
+        "isSelected": true
+      },
+      {
+        "path": "config\\netherex\\netherex.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\quark_emotes",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\automation.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\building.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\carts.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\charge.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\emblem.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\extras.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\factory.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\forestry.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\ic2.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\locomotives.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\magic.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\redstone_flux.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\resources.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\routing.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\seasonal.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\signals.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\steam.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\thaumcraft.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\tracks.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\tracks_abandoned.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\tracks_electric.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\tracks_high_speed.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\tracks_high_speed_electric.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\tracks_reinforced.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\tracks_strap_iron.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\trains.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\transport.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\world.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules\\worldspikes.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\ores",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\ores\\diffuse_COPPER.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\ores\\diffuse_LEAD.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\ores\\diffuse_NICKEL.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\ores\\diffuse_SILVER.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\ores\\diffuse_TIN.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\ores\\diffuse_ZINC.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\ores\\mine_COPPER.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\ores\\mine_GOLD.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\ores\\mine_IRON.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\ores\\mine_LEAD.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\ores\\mine_NICKEL.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\ores\\mine_SILVER.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\ores\\mine_TIN.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\ores\\mine_ZINC.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\blocks.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\client.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\entities.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\items.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\modules.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\railcraft\\railcraft.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\smoothfont",
+        "isSelected": true
+      },
+      {
+        "path": "config\\smoothfont\\smoothfont.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\thebetweenlands",
+        "isSelected": true
+      },
+      {
+        "path": "config\\thebetweenlands\\config.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\thebetweenlands\\config_version",
+        "isSelected": true
+      },
+      {
+        "path": "config\\traverse",
+        "isSelected": true
+      },
+      {
+        "path": "config\\traverse\\traverse.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\waila",
+        "isSelected": true
+      },
+      {
+        "path": "config\\waila\\theme",
+        "isSelected": true
+      },
+      {
+        "path": "config\\waila\\theme\\dark.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\waila\\theme\\vanilla.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\waila\\waila.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\waterstrainer",
+        "isSelected": true
+      },
+      {
+        "path": "config\\waterstrainer\\waterstrainer.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\waterstrainer\\waterstrainer_loottables.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Additional Structures - General.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Additional Structures - Structures.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alternatingflux.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\appleskin.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\aquaculture.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\bettercaves-1_12_2.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\betterfoliage.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\bettermineshafts-1_12_2.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\betterquesting.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\carryon.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ChickenChunks.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\codechickenlib.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\conarm.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\creativecore-client.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\creativecore.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ctm.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\dynamiclights.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\dynamiclights_dropitems.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\dynamiclights_entityclasses.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\dynamiclights_floodlights.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\dynamiclights_mobequipment.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\dynamiclights_onfire.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\dynamiclights_otherplayers.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\dynamiclights_theplayer.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\dynamictrees.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\dynamictreesbop.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\dynamictreestbl.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\enchdesc.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\energyconverters.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\entityculling.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ferdinandsflowers.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\finite_water.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forge.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeChunkLoading.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbbackups.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\gravestone.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\immersiveengineering.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\immersiveintelligence.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\immersivepetroleum.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\itemphysic-client.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\itemphysic.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jaff.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jeiintegration.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\journeymap_ModInfo.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\journeymap_server.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\libvulpes.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\mctimmersivetechnology.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\minecolonies.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\minecolonies_names.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\mobends.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\morpheus.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\mysticalworld.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\natura.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\NaturaModules.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\naturescompass.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\orelib.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\patchouli.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\pdp.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\quark.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\reccomplex.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\refinedstorage.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\regrowth.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\renderlib.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\RoadRunner.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\samsocean.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\sit.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\splash.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config\\stg.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\structurize.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\tcomplement.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\TComplementModules.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\tconstruct.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\thirsty-bottles.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\TinkerModules.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\TinkerToolLeveling.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\twilightforest.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\watercontrol.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Waystones.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\YungsLaw-1_12_2.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "fancymenu_data",
+        "isSelected": true
+      },
+      {
+        "path": "fancymenu_data\\bg2.jpg",
+        "isSelected": true
+      },
+      {
+        "path": "fancymenu_data\\last_world.fmdata",
+        "isSelected": true
+      },
+      {
+        "path": "fancymenu_data\\r1.png",
+        "isSelected": true
+      },
+      {
+        "path": "fancymenu_data\\r2.png",
+        "isSelected": true
+      },
+      {
+        "path": "fancymenu_data\\r3.png",
+        "isSelected": true
+      },
+      {
+        "path": "fancymenu_data\\r4.png",
+        "isSelected": true
+      },
+      {
+        "path": "logs",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\betterfoliage.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\latest.log",
+        "isSelected": false
+      },
+      {
+        "path": "minecolonies",
+        "isSelected": true
+      },
+      {
+        "path": "minecolonies\\scans",
+        "isSelected": true
+      },
+      {
+        "path": "minecolonies\\scans\\colony buildings",
+        "isSelected": true
+      },
+      {
+        "path": "minecolonies\\scans\\colony buildings\\Large Rocket Factory.blueprint",
+        "isSelected": true
+      },
+      {
+        "path": "minecolonies\\scans\\colony buildings\\MarketPlace.blueprint",
+        "isSelected": true
+      },
+      {
+        "path": "minecolonies\\scans\\colony buildings\\simple structure wall.blueprint",
+        "isSelected": true
+      },
+      {
+        "path": "minecolonies\\scans\\machinery",
+        "isSelected": true
+      },
+      {
+        "path": "minecolonies\\scans\\machinery\\Arc Furnace.blueprint",
+        "isSelected": true
+      },
+      {
+        "path": "minecolonies\\scans\\machinery\\Concrete Brick Machine.blueprint",
+        "isSelected": true
+      },
+      {
+        "path": "minecolonies\\scans\\machinery\\Concrete Mixer.blueprint",
+        "isSelected": true
+      },
+      {
+        "path": "minecolonies\\scans\\machinery\\Concrete Plant.blueprint",
+        "isSelected": true
+      },
+      {
+        "path": "minecolonies\\scans\\machinery\\Crusher.blueprint",
+        "isSelected": true
+      },
+      {
+        "path": "minecolonies\\scans\\machinery\\Diesel Generator.blueprint",
+        "isSelected": true
+      },
+      {
+        "path": "minecolonies\\scans\\machinery\\Distillation Tower.blueprint",
+        "isSelected": true
+      },
+      {
+        "path": "minecolonies\\scans\\machinery\\Excavator.blueprint",
+        "isSelected": true
+      },
+      {
+        "path": "minecolonies\\scans\\machinery\\Gas Turbine.blueprint",
+        "isSelected": true
+      },
+      {
+        "path": "minecolonies\\scans\\machinery\\Polymerizer.blueprint",
+        "isSelected": true
+      },
+      {
+        "path": "minecolonies\\scans\\machinery\\Pumpjack.blueprint",
+        "isSelected": true
+      },
+      {
+        "path": "minecolonies\\scans\\machinery\\Refinery.blueprint",
+        "isSelected": true
+      },
+      {
+        "path": "minecolonies\\scans\\machinery\\Steam Turbine.blueprint",
+        "isSelected": true
+      },
+      {
+        "path": "mods",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\1.12.2",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\1.12.2\\MathParser.org-mXparser-4.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\angrypixel",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\angrypixel\\TheBetweenlands",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\angrypixel\\TheBetweenlands\\3.9.6",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\angrypixel\\TheBetweenlands\\3.9.6\\TheBetweenlands-3.9.6-core.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\angrypixel\\TheBetweenlands\\3.9.6\\TheBetweenlands-3.9.6-core.jar.meta",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\blusunrize",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\blusunrize\\ImmersiveEngineering-core",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\blusunrize\\ImmersiveEngineering-core\\0.12-98",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\blusunrize\\ImmersiveEngineering-core\\0.12-98\\ImmersiveEngineering-core-0.12-98.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\blusunrize\\ImmersiveEngineering-core\\0.12-98\\ImmersiveEngineering-core-0.12-98.jar.meta",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\com",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\com\\electronwill",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\com\\electronwill\\night-config",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\com\\electronwill\\night-config\\core",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\com\\electronwill\\night-config\\core\\3.6.0",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\com\\electronwill\\night-config\\core\\3.6.0\\core-3.6.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\com\\electronwill\\night-config\\core\\3.6.0\\core-3.6.0.jar.meta",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\com\\electronwill\\night-config\\json",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\com\\electronwill\\night-config\\json\\3.6.0",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\com\\electronwill\\night-config\\json\\3.6.0\\json-3.6.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\com\\electronwill\\night-config\\json\\3.6.0\\json-3.6.0.jar.meta",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\com\\ldtteam",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\com\\ldtteam\\structurize",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\com\\ldtteam\\structurize\\1.12.2-0.10.277-RELEASE",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\com\\ldtteam\\structurize\\1.12.2-0.10.277-RELEASE\\structurize-1.12.2-0.10.277-RELEASE.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memory_repo\\com\\ldtteam\\structurize\\1.12.2-0.10.277-RELEASE\\structurize-1.12.2-0.10.277-RELEASE.jar.meta",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\AdvancedRocketry-1.12.2-2.1.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\alternatingflux-0.12.2-2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\AmbientEnvironment-1.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\AppleSkin-mc1.12-1.0.14.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Aquaculture-1.12.2-1.6.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ARLib-17-09-2024.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\AutoRegLib-1.3-32.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\base-1.12.2-3.14.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\bettercaves-1.12.2-2.0.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\BetterFoliage-MC1.12-2.3.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\BetterMineshaftsForge-1.12.2-2.2.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\BetterQuesting-3.5.329.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\buildcraft-all-8.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\carryon-1.12.2-1.12.7.23.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ChickenChunks-1.12.2-2.4.2.74-universal.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\conarm-1.12.2-1.2.5.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ContentTweaker-1.12.2-4.10.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CraftTweaker2-1.12-4.1.20.705.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CreativeCore_v1.10.71_mc1.12.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\DynamicLights-1.12.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\DynamicSurroundings-1.12.2-3.6.1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\DynamicTrees-1.12.2-0.9.29.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\DynamicTreesBOP-1.12.2-1.5.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\DynamicTreesQuark-1.12.2-1.0.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\DynamicTreesTheBetweenlands-1.12.2-1.0.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\DynamicTreesTraverse-1.12.2-2.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\EnchantmentDescriptions-1.12.2-1.1.15.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\energyconverters_1.12.2-1.3.7.30.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\EntityCulling-1.12.2-6.5.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\FancyBlockParticles-1.12.x-2.4.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Farseek-1.12-2.5.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Ferdinand's Flowers-1.12.x-1.10.4.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\finite_water-1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Forgelin-1.8.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\FTBBackups-1.1.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\gravestone-1.10.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Hwyla-1.8.26-B41_1.12.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ierenderfix-1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ImmersiveEngineering-0.12-98.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\immersivepetroleum-1.12.2-1.1.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ItemPhysic_Full_1.4.37_mc1.12.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\IvToolkit-1.3.3-1.12.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\jeiintegration_1.12.2-1.6.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\jei_1.12.2-4.16.1.301.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\journeymap-1.12.2-5.7.1p3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\JustAFewFish-1.7_for_1.12.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\JustEnoughPetroleum-0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\konkrete_forge_1.6.1_MC_1.12-1.12.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\LibraryEx-1.12.2-1.2.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\lostcities-1.12-2.0.22.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Mantle-1.12-1.3.3.55.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MCTImmersiveTechnology-1.12.2-1.9.102.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\medivalmusic-1.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\minecolonies-1.12.2-0.11.841-BETA-universal.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MoBends_1.12.2-1.2.1-19.12.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\modtweaker-4.0.20.11.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ModularMachinery-CE-2.1.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Morpheus-1.12.2-3.5.106.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MTLib-3.0.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mysticallib-1.12.2-1.13.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mysticalworld-1.12.2-1.11.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\natura-1.12.2-4.3.2.69.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\NaturesCompass-1.12.2-1.8.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\NetherEx-1.12.2-2.2.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\OceanFloor-1.12.2-1.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\OreLib-1.12.2-3.6.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Patchouli-1.0-23.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ProportionalDestructionParticles-1.12.2-1.2.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Quark-r1.6-179.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\questbook-3.1.1-1.12.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\railcraft-12.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\RecurrentComplex-1.4.8.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\refinedstorage-1.6.16.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\RenderLib-1.12.2-1.4.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Rex's-AdditionalStructures-1.12.x(v.2.5.0).jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\roadrunner-1.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\savemystronghold-1.12.2-1.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sit-1.12.2-v1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\SmoothFont-mc1.12.2-2.1.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\StandardExpansion-3.4.173.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\stg-1.12.2-1.2.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Streams-1.12-0.4.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\structurize-1.12.2-0.10.277-RELEASE.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\TConstruct-1.12.2-2.13.0.183.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\TheBetweenlands-3.9.6-universal.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ThirstyBottles-1.12.2-2.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\TinkersComplement-1.12.2-0.4.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\TinkerToolLeveling-1.12.2-1.1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Traverse-1.12.2-1.6.0-69.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\twilightforest-1.12.2-3.11.1021-universal.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\water-erosion-1.12.2-forge-1.1.1-beta1-full.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\WaterStrainer-1.12-3.3.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Waystones_1.12.2-4.1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\_MixinBootstrap-1.1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "patchouli_books",
+        "isSelected": false
+      },
+      {
+        "path": "resourcepacks",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\realistico-19-07-demo.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resources",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\blockstates",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\blockstates\\kerosene.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\blockstates\\moltenplastic.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\blockstates\\molten_modularium.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\blockstates\\molten_redstone.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\blockstates\\naphta.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\blockstates\\planet_artifact_ferric_sand.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\blockstates\\planet_artifact_gas_giant.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\blockstates\\planet_artifact_ice.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\blockstates\\planet_artifact_strange_dust.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\blockstates\\planet_artifact_volcanic.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\blockstates\\propene.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\lang",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\lang\\en_us.lang",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\block",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\item",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\item\\advresearchtoken.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\item\\gasminingtoken.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\item\\miningresearchtoken.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\item\\modularium_plate.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\item\\observatoryresearchtoken.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\item\\plastic.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\item\\researchtoken.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\item\\stationresearchtoken.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\item\\terraformingtoken.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\item\\trade_buy_blaze.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\item\\trade_buy_coal.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\item\\trade_buy_enderpearl.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\item\\trade_buy_food.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\item\\trade_buy_rareseeds.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\item\\trade_buy_seeds.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\item\\trade_buy_train.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\item\\trade_buy_wood.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\models\\item\\warptoken.json",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\sounds",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\blocks",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\blocks\\planet_artifact_ferric_sand.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\blocks\\planet_artifact_gas_giant.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\blocks\\planet_artifact_ice.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\blocks\\planet_artifact_strange_dust.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\blocks\\planet_artifact_volcanic.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\items",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\items\\advresearchtoken.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\items\\miningresearchtoken.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\items\\modularium_plate.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\items\\observatoryresearchtoken.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\items\\plastic.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\items\\researchtoken.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\items\\stationresearchtoken.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\items\\trade_buy_blaze.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\items\\trade_buy_coal.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\items\\trade_buy_enderpearl.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\items\\trade_buy_food.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\items\\trade_buy_rareseeds.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\items\\trade_buy_seeds.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\items\\trade_buy_train.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\contenttweaker\\textures\\items\\trade_buy_wood.png",
+        "isSelected": true
+      },
+      {
+        "path": "resources\\pack.mcmeta",
+        "isSelected": true
+      },
+      {
+        "path": "saves",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\advancements",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\advancements\\0586fd18-3325-499d-8922-7b7ef0e9dfbd.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\advRocketry",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\advRocketry\\DIM-2",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\advRocketry\\DIM-2\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\advRocketry\\DIM-2\\data\\buildcraft_wire_systems.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\advRocketry\\DIM-2\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\advRocketry\\DIM-2\\data\\villagesplanet.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\advRocketry\\DIM-2\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\advRocketry\\DIM-2\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\advRocketry\\planetDefs.xml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\advRocketry\\temp.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\betterquesting",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\betterquesting\\LifeDatabase.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\betterquesting\\NameCache.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\betterquesting\\QuestDatabase.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\betterquesting\\QuestingParties.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\betterquesting\\QuestProgress.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\nether_biomes",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\nether_biomes\\biomesoplenty",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\nether_biomes\\biomesoplenty\\corrupted_sands.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\nether_biomes\\biomesoplenty\\fungi_forest.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\nether_biomes\\biomesoplenty\\phantasmagoric_inferno.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\nether_biomes\\biomesoplenty\\undergarden.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\nether_biomes\\biomesoplenty\\visceral_heap.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\nether_biomes\\minecraft",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\nether_biomes\\minecraft\\hell.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\nether_biomes\\netherex",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\nether_biomes\\netherex\\arctic_abyss.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\nether_biomes\\netherex\\fungi_forest.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\nether_biomes\\netherex\\ruthless_sands.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\nether_biomes\\netherex\\torrid_wasteland.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\pigtificate_trades",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\pigtificate_trades\\netherex",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\pigtificate_trades\\netherex\\armorsmith.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\pigtificate_trades\\netherex\\brewer.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\pigtificate_trades\\netherex\\chief.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\pigtificate_trades\\netherex\\enchanter.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\pigtificate_trades\\netherex\\gatherer.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\pigtificate_trades\\netherex\\hunter.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\pigtificate_trades\\netherex\\nincompoop.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\pigtificate_trades\\netherex\\scavenger.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\config\\netherex\\pigtificate_trades\\netherex\\toolsmith.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\data\\advancements",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\data\\functions",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\data\\buildcraft_marker_path.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\data\\buildcraft_marker_volume.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\data\\buildcraft_wire_systems.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\data\\ChickenChunksLoginTimes.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\data\\ImmersiveEngineering-SaveData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\data\\ImmersivePetroleum-SaveData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\data\\Mineshaft.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\data\\reccomplex-random.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\data\\reccomplex-structuredata.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\data\\scoreboard.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\data\\Village.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\data\\villages.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\data\\waystones_NameGenerator.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM-1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM-1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM-1\\data\\buildcraft_wire_systems.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM-1\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM-1\\data\\villages_nether.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM-1\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM-1\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM1\\data\\buildcraft_wire_systems.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM1\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM1\\data\\villages_end.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM1\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM1\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM112",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM112\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM112\\data\\buildcraft_wire_systems.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM112\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM112\\data\\villages_twilightforest.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM112\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM112\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM113",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM113\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM113\\data\\buildcraft_wire_systems.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM113\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM113\\data\\villages_betweenlands.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM113\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM113\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\LOST114",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\LOST114\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\LOST114\\data\\buildcraft_wire_systems.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\LOST114\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\LOST114\\data\\villages_lost.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\LOST114\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\LOST114\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\LOST120",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\LOST120\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\LOST120\\data\\buildcraft_wire_systems.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\LOST120\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\LOST120\\data\\villages_lost.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\LOST120\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\LOST120\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\minecolonies",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\minecolonies\\colonies-2025-08-11_17.44.46.zip",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\minecolonies\\colonies-2025-08-11_19.52.15.zip",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\minecolonies\\colonies-2025-08-11_21.10.59.zip",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\minecolonies\\colonies-2025-08-11_21.59.44.zip",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\minecolonies\\colonies.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\minecolonies\\colony1_0.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\playerdata",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\playerdata\\0586fd18-3325-499d-8922-7b7ef0e9dfbd.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\region\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\region\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\region\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\region\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\stats",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\stats\\0586fd18-3325-499d-8922-7b7ef0e9dfbd.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\structures",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\structures\\active",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\structures\\inactive",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\structurize",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\structurize\\structurize_linksession-2025-08-11T21.51.04.dat.old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\structurize\\structurize_linksession-2025-08-11T22.03.35.dat.old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\structurize\\structurize_linksession.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\traverse",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\traverse\\instance_version.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\icon.png",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\level.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\level.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\QuestLoot.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\session.lock",
+        "isSelected": false
+      },
+      {
+        "path": "scripts",
+        "isSelected": true
+      },
+      {
+        "path": "scripts\\contenttweaker.zs",
+        "isSelected": true
+      },
+      {
+        "path": "scripts\\mmmarketrecipes.zs",
+        "isSelected": true
+      },
+      {
+        "path": "scripts\\mmrecipesconcrete.zs",
+        "isSelected": true
+      },
+      {
+        "path": "scripts\\mmresearchrecipes.zs",
+        "isSelected": true
+      },
+      {
+        "path": "scripts\\mmrocketcrafterrecipes.zs",
+        "isSelected": true
+      },
+      {
+        "path": "scripts\\mod.zs",
+        "isSelected": true
+      },
+      {
+        "path": "scripts\\modulariumrecipes.zs",
+        "isSelected": true
+      },
+      {
+        "path": "scripts\\modulariumstuff.zs",
+        "isSelected": true
+      },
+      {
+        "path": "scripts\\plasticprocessing.zs",
+        "isSelected": true
+      },
+      {
+        "path": "scripts\\recipes.zs",
+        "isSelected": true
+      },
+      {
+        "path": "scripts\\recipes_multiply_trade_lists.zs",
+        "isSelected": true
+      },
+      {
+        "path": "scripts\\research_tokens.zs",
+        "isSelected": true
+      },
+      {
+        "path": "scripts\\tradinglists.zs",
+        "isSelected": true
+      },
+      {
+        "path": "shaderpacks",
+        "isSelected": true
+      },
+      {
+        "path": "shaderpacks\\ARshadermod.zip",
+        "isSelected": true
+      },
+      {
+        "path": "shaderpacks\\ARshadermod.zip.txt",
+        "isSelected": true
+      },
+      {
+        "path": "structurize",
+        "isSelected": false
+      },
+      {
+        "path": "structurize\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "structurize\\scans",
+        "isSelected": false
+      },
+      {
+        "path": "structurize\\scans\\new",
+        "isSelected": false
+      },
+      {
+        "path": "structurize\\schematics",
+        "isSelected": false
+      },
+      {
+        "path": ".curseclient",
+        "isSelected": false
+      },
+      {
+        "path": ".gitattributes",
+        "isSelected": false
+      },
+      {
+        "path": ".gitignore",
+        "isSelected": false
+      },
+      {
+        "path": "crafttweaker.log",
+        "isSelected": false
+      },
+      {
+        "path": "minecraftinstance.json",
+        "isSelected": false
+      },
+      {
+        "path": "optionsof.txt",
+        "isSelected": true
+      },
+      {
+        "path": "optionsshaders.txt",
+        "isSelected": true
+      },
+      {
+        "path": "patchouli_data.json",
+        "isSelected": false
+      }
+    ],
+    "recommendedRam": 6144,
+    "enableRecommendedRam": true
+  }
+}
