@@ -9,7 +9,7 @@
             "y": 0,
             "z": 0,
             "elements": [
-                "modularmachinery:blockinputbus@1"
+                "modularmachinery:blockinputbus"
             ]
         },
         {
@@ -17,7 +17,7 @@
             "y": 2,
             "z": 1,
             "elements": [
-                "minecraft:dark_oak_stairs@6"
+                "minecraft:dark_oak_stairs"
             ]
         },
         {
@@ -25,7 +25,15 @@
             "y": 0,
             "z": 0,
             "elements": [
-                "modularmachinery:blockoutputbus@1"
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus"
             ]
         },
         {
