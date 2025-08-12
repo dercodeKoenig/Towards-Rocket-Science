@@ -11,13 +11,13 @@ bobView:true
 anaglyph3d:false
 maxFps:120
 fboEnable:true
-difficulty:0
+difficulty:1
 fancyGraphics:true
 ao:2
 renderClouds:true
 resourcePacks:[]
 incompatibleResourcePacks:[]
-lastServer:
+lastServer:127.0.0.1:25565
 lang:en_us
 chatVisibility:0
 chatColors:true
@@ -52,8 +52,8 @@ enableWeakAttacks:false
 autoJump:true
 narrator:0
 tutorialStep:none
-key_key.attack:-100
-key_key.use:-99
+key_key.attack:-99
+key_key.use:-100
 key_key.forward:17
 key_key.left:30
 key_key.back:31
@@ -88,6 +88,14 @@ key_key.hotbar.9:10
 key_Reload Menu | CTRL + ALT + :19
 key_Toggle Customization Overlay | CTRL + ALT + :46
 key_keybind.railcraft.cart.bed:208
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:44
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.playerSort:0
 key_quark.keybind.lockBuilding:37
 key_quark.emote.no:0
 key_quark.emote.yes:0
@@ -107,14 +115,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:44
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.playerSort:0
 key_quark.keybind.toggleAutojump:48
 key_key.betterfoliage.gui:66
 key_key.betterquesting.quests:41
