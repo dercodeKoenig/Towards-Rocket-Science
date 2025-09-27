@@ -4526,7 +4526,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say I just had a great idea. Check out my building plans!"
+          "command:8": "tellraw @p {\"text\":\"I just had a great idea. Check out my building plans!\"}\n"
         }
       }
     },
@@ -6709,7 +6709,7 @@
           "globalshare:1": 0,
           "questlogic:8": "AND",
           "snd_update:8": "minecraft:entity.player.levelup",
-          "autoclaim:1": 0,
+          "autoclaim:1": 1,
           "repeat_relative:1": 1,
           "ismain:1": 0,
           "name:8": "Everyone is happy",
@@ -6723,6 +6723,16 @@
           "rewardID:8": "bq_standard:xp",
           "isLevels:1": 1,
           "index:3": 0
+        },
+        "1:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "asScript:1": 1,
+          "description:8": "Run a command script",
+          "viaPlayer:1": 0,
+          "index:3": 1,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "tellraw @p {\"text\":\"The survivors are happy to be able to return to their home world soon. They shower you with gratitude!\"}"
         }
       }
     },
@@ -6811,7 +6821,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say Bill says Thank You!"
+          "command:8": "tellraw @p {\"text\":\"Bill says Thank You!\"}"
         }
       }
     },
@@ -6867,7 +6877,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say Robin says Thank You!"
+          "command:8": "tellraw @p {\"text\":\"Robin says Thank You!\"}"
         }
       }
     },
@@ -6923,7 +6933,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say Nina says Thank You!"
+          "command:8": "tellraw @p {\"text\":\"Nina says Thank You!\"}"
         }
       }
     },
@@ -6979,7 +6989,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say Michael says Thank You!"
+          "command:8": "tellraw @p {\"text\":\"Michael says Thank You!\"}"
         }
       }
     },
@@ -7035,7 +7045,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say Gustav says Thank You!"
+          "command:8": "tellraw @p {\"text\":\"Gustav says Thank You!\"}"
         }
       }
     },
@@ -7091,7 +7101,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say Rico says Thank You!"
+          "command:8": "tellraw @p {\"text\":\"Rico says Thank You!\"}"
         }
       }
     },
@@ -7147,7 +7157,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say Anna says Thank You!"
+          "command:8": "tellraw @p {\"text\":\"Anna says Thank You!\"}"
         }
       }
     },
@@ -7203,7 +7213,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say Lilly says Thank You!"
+          "command:8": "tellraw @p {\"text\":\"Lilly says Thank You!\"}"
         }
       }
     },
@@ -7259,7 +7269,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say Toffel\u0027s friend says Thank You!"
+          "command:8": "tellraw @p {\"text\":\"Toffel\u0027s friend says Thank You!\"}"
         }
       }
     },
@@ -7289,7 +7299,7 @@
           "autoclaim:1": 1,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "OberToffel says Thank You!",
+          "name:8": "Toffel says Thank You!",
           "desc:8": "No Description"
         }
       },
@@ -7318,7 +7328,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say OberToffel says Thank You!"
+          "command:8": "tellraw @p {\"text\":\"Toffel says Thank You!\"}"
         }
       }
     },
@@ -8568,7 +8578,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say The scientists started to investigate Terraforming. I\u0027ll let you know as soon as there\u0027s anything new."
+          "command:8": "tellraw @p {\"text\":\"The scientists started to investigate Terraforming. I\u0027ll let you know as soon as there\u0027s anything new.\"}"
         }
       }
     },
@@ -8684,7 +8694,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say Investigation of terraforming technology has been completed!"
+          "command:8": "tellraw @p {\"text\":\"Investigation of terraforming technology has been completed!\"}"
         }
       }
     },
@@ -9454,7 +9464,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say The development of a warp system is now in progress. Let\u0027s wait for the results."
+          "command:8": "tellraw @p {\"text\":\"The development of a warp system is now in progress. Let\u0027s wait for the results.\"}"
         }
       }
     },
@@ -9537,7 +9547,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say Check this out - the scientists have managed to construct a warp core! "
+          "command:8": "tellraw @p {\"text\":\"Check this out - the scientists have managed to construct a warp core!\"}"
         }
       }
     },
@@ -10307,7 +10317,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say A method of extracting gas from gas giants is now being researched"
+          "command:8": "tellraw @p {\"text\":\"A method of extracting gas from gas giants is now being researched\"}"
         }
       }
     },
@@ -10390,7 +10400,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say Research of Gas Mining is completed. We can now construct unmanned vehicles!"
+          "command:8": "tellraw @p {\"text\":\"Research of Gas Mining is completed. We can now construct unmanned vehicles!\"}"
         }
       }
     },
@@ -11715,7 +11725,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say We have a small navigation problem. Find out more in the quest book!"
+          "command:8": "tellraw @p {\"text\":\"We have a small navigation problem. Find out more in the quest book!\"}"
         }
       }
     },
@@ -12033,7 +12043,7 @@
           "repeat_relative:1": 1,
           "ismain:1": 0,
           "name:8": "Loading Carts",
-          "desc:8": "A very important part of building a railway network isthe loading and unloading of carts.\n\nI will show you how to load your steam locomotive with coal and water using loaders:\n\n- place the loaders above the track\n- place the locking part at the tracks\n- in the loaders, put the steam locomotive in the cart filter slot. \n\nNow the loaders will load only the locomotive.\nThe train will be in hold mode until the loading is completed.\n\n\nYou can use the same logic to load and unload your carts!"
+          "desc:8": "A very important part of building a railway network is the loading and unloading of carts.\n\nI will show you how to load your steam locomotive with coal and water using loaders:\n\n- place the loaders above the track\n- place the locking part at the tracks\n- in the loaders, put the steam locomotive in the cart filter slot. \n\nNow the loaders will load only the locomotive.\nThe train will be in hold mode until the loading is completed.\n\n\nYou can use the same logic to load and unload your carts!"
         }
       },
       "tasks:9": {
@@ -13667,7 +13677,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say I just had a great idea. Check out my building plans!"
+          "command:8": "tellraw @p {\"text\":\"I just had a great idea. Check out my building plans!\"}\n"
         }
       }
     },
@@ -13711,7 +13721,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say I just had a great idea. Check out my building plans!"
+          "command:8": "tellraw @p {\"text\":\"I just had a great idea. Check out my building plans!\"}\n"
         }
       }
     },
@@ -13755,7 +13765,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say I just had a great idea. Check out my building plans!"
+          "command:8": "tellraw @p {\"text\":\"I just had a great idea. Check out my building plans!\"}\n"
         }
       }
     },
@@ -13799,7 +13809,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say I just had a great idea. Check out my building plans!"
+          "command:8": "tellraw @p {\"text\":\"I just had a great idea. Check out my building plans!\"}\n"
         }
       }
     },
@@ -13843,7 +13853,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say I just had a great idea. Check out my building plans!"
+          "command:8": "tellraw @p {\"text\":\"I just had a great idea. Check out my building plans!\"}\n"
         }
       }
     },
@@ -13887,7 +13897,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say I just had a great idea. Check out my building plans!"
+          "command:8": "tellraw @p {\"text\":\"I just had a great idea. Check out my building plans!\"}\n"
         }
       }
     },
@@ -13931,7 +13941,7 @@
           "viaPlayer:1": 0,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say I just had a great idea. Check out my building plans!"
+          "command:8": "tellraw @p {\"text\":\"I just had a great idea. Check out my building plans!\"}\n"
         }
       }
     },
@@ -14024,7 +14034,7 @@
           "viaPlayer:1": 0,
           "index:3": 1,
           "title:8": "bq_standard.reward.command",
-          "command:8": "say Welcome to Towards Rocket Science!"
+          "command:8": "tellraw @p {\"text\":\"Welcome to Towards Rocket Science!\"}"
         }
       }
     },
@@ -17342,7 +17352,7 @@
       "home_anchor_y:5": 0.0,
       "livesmax:3": 10,
       "home_anchor_x:5": 0.5,
-      "editmode:1": 0,
+      "editmode:1": 1,
       "hardcore:1": 0,
       "home_image:8": "betterquesting:textures/gui/default_title.png",
       "party_enable:1": 1,
