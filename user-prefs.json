@@ -786,10 +786,6 @@
         "isSelected": true
       },
       {
-        "path": "config\\betterquesting\\DefaultQuests - Kopie.json",
-        "isSelected": true
-      },
-      {
         "path": "config\\betterquesting\\DefaultQuests.json",
         "isSelected": true
       },
@@ -2450,6 +2446,18 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\world\\DIM0\\6",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\world\\DIM0\\6\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\world\\DIM0\\6\\0,0.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\world\\DIM0\\day",
         "isSelected": false
       },
@@ -2483,6 +2491,46 @@
       },
       {
         "path": "journeymap\\data\\sp\\world\\DIM0\\topo\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\world\\DIM112",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\world\\DIM112\\day",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\world\\DIM112\\day\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\world\\DIM112\\day\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\world\\DIM112\\night",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\world\\DIM112\\night\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\world\\DIM112\\night\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\world\\DIM112\\topo",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\world\\DIM112\\topo\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\world\\DIM112\\topo\\0,0.png",
         "isSelected": false
       },
       {
@@ -2950,6 +2998,18 @@
         "isSelected": false
       },
       {
+        "path": "logs\\2025-08-12-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-09-27-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-09-27-2.log.gz",
+        "isSelected": false
+      },
+      {
         "path": "logs\\betterfoliage.log",
         "isSelected": false
       },
@@ -3166,7 +3226,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\AdvancedRocketry-1.12.2-2.1.9-2.jar",
+        "path": "mods\\AdvancedRocketry-1.12.2-2.1.10.jar",
         "isSelected": true
       },
       {
@@ -3242,7 +3302,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\CraftTweaker2-1.12-4.1.20.705.jar",
+        "path": "mods\\CraftTweaker2-1.12-4.1.20.709.jar",
         "isSelected": true
       },
       {
@@ -3402,7 +3462,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\ModularMachinery-CE-2.1.5.jar",
+        "path": "mods\\ModularMachinery-CE-2.2.2.jar",
         "isSelected": true
       },
       {
@@ -4134,6 +4194,14 @@
         "isSelected": false
       },
       {
+        "path": "saves\\world\\DIM112\\data\\buildcraft_marker_path.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM112\\data\\buildcraft_marker_volume.dat",
+        "isSelected": false
+      },
+      {
         "path": "saves\\world\\DIM112\\data\\buildcraft_wire_systems.dat",
         "isSelected": false
       },
@@ -4142,11 +4210,51 @@
         "isSelected": false
       },
       {
+        "path": "saves\\world\\DIM112\\data\\labyrinth.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM112\\data\\lich_tower.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM112\\data\\medium_hollow_hill.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM112\\data\\naga_courtyard.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM112\\data\\reccomplex-structuredata.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM112\\data\\small_hollow_hill.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM112\\data\\TFHollowTree.dat",
+        "isSelected": false
+      },
+      {
         "path": "saves\\world\\DIM112\\data\\villages_twilightforest.dat",
         "isSelected": false
       },
       {
         "path": "saves\\world\\DIM112\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM112\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM112\\region\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\DIM112\\region\\r.0.0.mca",
         "isSelected": false
       },
       {
@@ -4262,6 +4370,22 @@
         "isSelected": false
       },
       {
+        "path": "saves\\world\\minecolonies\\colonies-2025-09-27_17.25.26.zip",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\minecolonies\\colonies-2025-09-27_17.28.17.zip",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\minecolonies\\colonies-2025-09-28_12.04.40.zip",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\minecolonies\\colonies-2025-09-28_12.09.54.zip",
+        "isSelected": false
+      },
+      {
         "path": "saves\\world\\minecolonies\\colonies.dat",
         "isSelected": false
       },
@@ -4279,6 +4403,14 @@
       },
       {
         "path": "saves\\world\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\region\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\world\\region\\r.-1.0.mca",
         "isSelected": false
       },
       {
@@ -4322,11 +4454,11 @@
         "isSelected": false
       },
       {
-        "path": "saves\\world\\structurize\\structurize_linksession-2025-08-11T22.03.35.dat.old",
+        "path": "saves\\world\\structurize\\structurize_linksession-2025-09-27T18.38.22.dat.old",
         "isSelected": false
       },
       {
-        "path": "saves\\world\\structurize\\structurize_linksession-2025-08-11T22.24.17.dat.old",
+        "path": "saves\\world\\structurize\\structurize_linksession-2025-09-28T12.09.52.dat.old",
         "isSelected": false
       },
       {
@@ -4511,6 +4643,14 @@
       },
       {
         "path": "Towards-Rocket-Science-2.6.4.zip",
+        "isSelected": false
+      },
+      {
+        "path": "Towards-Rocket-Science-2.6.5.zip",
+        "isSelected": false
+      },
+      {
+        "path": "Towards-Rocket-Science-2.6.6.zip",
         "isSelected": false
       },
       {

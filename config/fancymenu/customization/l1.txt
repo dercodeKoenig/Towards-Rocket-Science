@@ -160,11 +160,11 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 251
+  x = 113
   width = 228
   action = deep_customization_element:title_screen_forge_copyright
   actionid = 7fee1d1b-0e16-464b-8052-36586828675e1726338812880
-  y = 243
+  y = 236
   height = 9
 }
 
@@ -206,7 +206,7 @@ customization {
 customization {
   orientation = top-left
   restartbackgroundanimations = true
-  buttonaction = openlink;https://www.paypal.com/donate/?hosted_button_id=6YQUAMMAY3DGE%btnaction_splitter_fm%
+  buttonaction = openlink;https://discord.gg/JBhvTg9VFw%btnaction_splitter_fm%
   backgroundhovered = fancymenu_data/r1.png
   label = 
   loopbackgroundanimations = true
