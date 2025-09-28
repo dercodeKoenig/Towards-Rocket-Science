@@ -2286,6 +2286,10 @@
         "isSelected": true
       },
       {
+        "path": "fancymenu_data\\r1 - Kopie.png",
+        "isSelected": false
+      },
+      {
         "path": "fancymenu_data\\r1.png",
         "isSelected": true
       },
@@ -3007,6 +3011,18 @@
       },
       {
         "path": "logs\\2025-09-27-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-09-28-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-09-28-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-09-28-3.log.gz",
         "isSelected": false
       },
       {
