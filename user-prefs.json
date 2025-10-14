@@ -3470,7 +3470,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\MoBends_1.12.2-1.2.1-19.12.21.jar",
+        "path": "mods\\MoBends_1.12.2-1.2.2-29.09.25-all.jar",
         "isSelected": true
       },
       {
@@ -3611,10 +3611,6 @@
       },
       {
         "path": "mods\\twilightforest-1.12.2-3.11.1021-universal.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\water-erosion-1.12.2-forge-1.1.1-beta1-full.jar",
         "isSelected": true
       },
       {
@@ -4667,6 +4663,10 @@
       },
       {
         "path": "Towards-Rocket-Science-2.6.6.zip",
+        "isSelected": false
+      },
+      {
+        "path": "Towards-Rocket-Science-2.6.7.zip",
         "isSelected": false
       },
       {
