@@ -88,7 +88,6 @@ key_key.hotbar.9:10
 key_Reload Menu | CTRL + ALT + :19
 key_Toggle Customization Overlay | CTRL + ALT + :46
 key_keybind.railcraft.cart.bed:208
-key_quark.keybind.toggleAutojump:48
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -107,6 +106,7 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.toggleAutojump:48
 key_quark.keybind.lockBuilding:37
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44

@@ -100,6 +100,15 @@ recipes.remove(<buildcrafttransport:pipe_stone_item>);
 recipes.remove(<buildcrafttransport:pipe_wood_item>);
 //Don't touch me!
 //#Add
+recipes.addShapeless(<tektopia:prof_blacksmith>, [<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<immersiveengineering:tool>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>]);
+recipes.addShapeless(<tektopia:prof_rancher>, [<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:lead>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>]);
+recipes.addShapeless(<tektopia:prof_enchanter>, [<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:book>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>]);
+recipes.addShapeless(<tektopia:prof_butcher>, [<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:iron_axe>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>]);
+recipes.addShapeless(<tektopia:prof_chef>, [<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:coal>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>]);
+recipes.addShapeless(<tektopia:prof_miner>, [<minecraft:wooden_pickaxe>,<minecraft:emerald>,<minecraft:emerald>]);
+recipes.addShapeless(<tektopia:prof_guard>, [<minecraft:wooden_sword>,<minecraft:emerald>,<minecraft:emerald>]);
+recipes.addShapeless(<tektopia:prof_lumberjack>, [<minecraft:wooden_axe>,<minecraft:emerald>,<minecraft:emerald>]);
+recipes.addShapeless(<tektopia:prof_farmer>, [<minecraft:wooden_hoe>,<minecraft:emerald>,<minecraft:emerald>]);
 recipes.addShapeless(<biomesoplenty:black_dye>, [<minecraft:clay_ball>,<forge:bucketfilled>.withTag({FluidName: "oil", Amount: 1000}).onlyWithTag({FluidName: "oil", Amount: 1000})]);
 recipes.addShaped(<biomesoplenty:white_dye>, [[null, null, null],[null, <minecraft:quartz>, null], [null, null, null]]);
 recipes.addShaped(<quark:root_dye:1>, [[null, null, null],[null, <railcraft:dust:5>, null], [null, null, null]]);

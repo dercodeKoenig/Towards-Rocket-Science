@@ -509,14 +509,6 @@
             ]
         },
         {
-            "x": -5,
-            "y": 0,
-            "z": -7,
-            "elements": [
-                "minecraft:trapdoor@11"
-            ]
-        },
-        {
             "x": -6,
             "y": 0,
             "z": -7,
@@ -554,14 +546,6 @@
             "z": -15,
             "elements": [
                 "minecraft:spruce_stairs@7"
-            ]
-        },
-        {
-            "x": -7,
-            "y": 0,
-            "z": -15,
-            "elements": [
-                "minecraft:trapdoor@8"
             ]
         },
         {
@@ -1229,14 +1213,6 @@
             ]
         },
         {
-            "x": 9,
-            "y": 0,
-            "z": -3,
-            "elements": [
-                "minecraft:trapdoor@10"
-            ]
-        },
-        {
             "x": 8,
             "y": 0,
             "z": -3,
@@ -1338,14 +1314,6 @@
             "z": -11,
             "elements": [
                 "minecraft:spruce_stairs@6"
-            ]
-        },
-        {
-            "x": -7,
-            "y": 0,
-            "z": -11,
-            "elements": [
-                "minecraft:trapdoor@9"
             ]
         },
         {
