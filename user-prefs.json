@@ -2286,6 +2286,10 @@
         "isSelected": false
       },
       {
+        "path": "crash-reports\\crash-2025-10-17_15.59.21-server.txt",
+        "isSelected": false
+      },
+      {
         "path": "datapacks",
         "isSelected": true
       },
@@ -2519,6 +2523,54 @@
       },
       {
         "path": "journeymap\\data\\sp\\New World\\waypoints",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World~",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World~\\DIM0",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World~\\DIM0\\day",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World~\\DIM0\\day\\-3,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World~\\DIM0\\day\\-3,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World~\\DIM0\\night",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World~\\DIM0\\night\\-3,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World~\\DIM0\\night\\-3,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World~\\DIM0\\topo",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World~\\DIM0\\topo\\-3,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World~\\DIM0\\topo\\-3,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World~\\waypoints",
         "isSelected": false
       },
       {
@@ -3187,6 +3239,18 @@
       },
       {
         "path": "logs\\2025-10-17-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-10-17-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-10-17-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-10-17-6.log.gz",
         "isSelected": false
       },
       {
@@ -4610,6 +4674,918 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World-",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\advRocketry",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\advRocketry\\DIM-2",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\advRocketry\\DIM-2\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\advRocketry\\DIM-2\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\advRocketry\\DIM-2\\data\\villagesplanet.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\advRocketry\\DIM-2\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\advRocketry\\DIM-2\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\nether_biomes",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\nether_biomes\\biomesoplenty",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\nether_biomes\\biomesoplenty\\corrupted_sands.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\nether_biomes\\biomesoplenty\\fungi_forest.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\nether_biomes\\biomesoplenty\\phantasmagoric_inferno.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\nether_biomes\\biomesoplenty\\undergarden.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\nether_biomes\\biomesoplenty\\visceral_heap.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\nether_biomes\\minecraft",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\nether_biomes\\minecraft\\hell.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\nether_biomes\\netherex",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\nether_biomes\\netherex\\arctic_abyss.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\nether_biomes\\netherex\\fungi_forest.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\nether_biomes\\netherex\\ruthless_sands.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\nether_biomes\\netherex\\torrid_wasteland.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\pigtificate_trades",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\pigtificate_trades\\netherex",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\pigtificate_trades\\netherex\\armorsmith.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\pigtificate_trades\\netherex\\brewer.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\pigtificate_trades\\netherex\\chief.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\pigtificate_trades\\netherex\\enchanter.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\pigtificate_trades\\netherex\\gatherer.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\pigtificate_trades\\netherex\\hunter.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\pigtificate_trades\\netherex\\nincompoop.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\pigtificate_trades\\netherex\\scavenger.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\config\\netherex\\pigtificate_trades\\netherex\\toolsmith.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\data\\advancements",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\data\\functions",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\data\\Mineshaft.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\data\\reccomplex-structuredata.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\data\\villages.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM-1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM-1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM-1\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM-1\\data\\villages_nether.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM-1\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM-1\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM1\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM1\\data\\villages_end.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM1\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM1\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM112",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM112\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM112\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM112\\data\\villages_twilightforest.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM112\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM112\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM113",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM113\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM113\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM113\\data\\villages_betweenlands.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM113\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\DIM113\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\LOST114",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\LOST114\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\LOST114\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\LOST114\\data\\villages_lost.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\LOST114\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\LOST114\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\LOST120",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\LOST120\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\LOST120\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\LOST120\\data\\villages_lost.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\LOST120\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\LOST120\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\minecolonies",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\minecolonies\\colonies-2025-10-17_15.59.25.zip",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\minecolonies\\colonies.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\playerdata",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\region\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\region\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\region\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\region\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\traverse",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\traverse\\instance_version.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\level.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\level.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World-\\session.lock",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\advancements",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\advancements\\0586fd18-3325-499d-8922-7b7ef0e9dfbd.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\advRocketry",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\advRocketry\\DIM-2",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\advRocketry\\DIM-2\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\advRocketry\\DIM-2\\data\\buildcraft_wire_systems.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\advRocketry\\DIM-2\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\advRocketry\\DIM-2\\data\\villagesplanet.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\advRocketry\\DIM-2\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\advRocketry\\DIM-2\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\advRocketry\\planetDefs.xml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\advRocketry\\temp.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\betterquesting",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\betterquesting\\LifeDatabase.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\betterquesting\\NameCache.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\betterquesting\\QuestDatabase.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\betterquesting\\QuestingParties.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\betterquesting\\QuestProgress.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\nether_biomes",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\nether_biomes\\biomesoplenty",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\nether_biomes\\biomesoplenty\\corrupted_sands.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\nether_biomes\\biomesoplenty\\fungi_forest.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\nether_biomes\\biomesoplenty\\phantasmagoric_inferno.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\nether_biomes\\biomesoplenty\\undergarden.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\nether_biomes\\biomesoplenty\\visceral_heap.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\nether_biomes\\minecraft",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\nether_biomes\\minecraft\\hell.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\nether_biomes\\netherex",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\nether_biomes\\netherex\\arctic_abyss.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\nether_biomes\\netherex\\fungi_forest.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\nether_biomes\\netherex\\ruthless_sands.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\nether_biomes\\netherex\\torrid_wasteland.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\pigtificate_trades",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\pigtificate_trades\\netherex",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\pigtificate_trades\\netherex\\armorsmith.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\pigtificate_trades\\netherex\\brewer.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\pigtificate_trades\\netherex\\chief.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\pigtificate_trades\\netherex\\enchanter.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\pigtificate_trades\\netherex\\gatherer.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\pigtificate_trades\\netherex\\hunter.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\pigtificate_trades\\netherex\\nincompoop.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\pigtificate_trades\\netherex\\scavenger.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\config\\netherex\\pigtificate_trades\\netherex\\toolsmith.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\data\\advancements",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\data\\functions",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\data\\buildcraft_marker_path.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\data\\buildcraft_marker_volume.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\data\\buildcraft_wire_systems.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\data\\ChickenChunksLoginTimes.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\data\\ImmersiveEngineering-SaveData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\data\\ImmersivePetroleum-SaveData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\data\\reccomplex-random.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\data\\reccomplex-structuredata.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\data\\Village.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\data\\villages.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM-1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM-1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM-1\\data\\buildcraft_wire_systems.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM-1\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM-1\\data\\villages_nether.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM-1\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM-1\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM1\\data\\buildcraft_wire_systems.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM1\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM1\\data\\villages_end.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM1\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM1\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM112",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM112\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM112\\data\\buildcraft_wire_systems.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM112\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM112\\data\\villages_twilightforest.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM112\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM112\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM113",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM113\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM113\\data\\buildcraft_wire_systems.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM113\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM113\\data\\villages_betweenlands.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM113\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\DIM113\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\LOST114",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\LOST114\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\LOST114\\data\\buildcraft_wire_systems.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\LOST114\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\LOST114\\data\\villages_lost.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\LOST114\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\LOST114\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\LOST120",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\LOST120\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\LOST120\\data\\buildcraft_wire_systems.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\LOST120\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\LOST120\\data\\villages_lost.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\LOST120\\data\\WorldInfoSavedData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\LOST120\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\minecolonies",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\minecolonies\\colonies-2025-10-17_16.12.18.zip",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\minecolonies\\colonies-2025-10-17_16.29.14.zip",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\minecolonies\\colonies.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\playerdata",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\playerdata\\0586fd18-3325-499d-8922-7b7ef0e9dfbd.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\region\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\region\\r.-1.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\region\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\region\\r.-2.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\region\\r.-2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\region\\r.-3.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\region\\r.-3.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\region\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\region\\r.0.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\region\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\stats",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\stats\\0586fd18-3325-499d-8922-7b7ef0e9dfbd.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\structures",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\structures\\active",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\structures\\inactive",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\structurize",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\structurize\\structurize_linksession-2025-10-17T16.30.57.dat.old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\structurize\\structurize_linksession.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\traverse",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\traverse\\instance_version.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\icon.png",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\level.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\level.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\QuestLoot.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World--\\session.lock",
+        "isSelected": false
+      },
+      {
         "path": "saves\\world_2025_09_28",
         "isSelected": false
       },
@@ -5567,6 +6543,10 @@
       },
       {
         "path": "Towards-Rocket-Science-2.7.2.zip",
+        "isSelected": false
+      },
+      {
+        "path": "Towards-Rocket-Science-2.7.3.zip",
         "isSelected": false
       },
       {
