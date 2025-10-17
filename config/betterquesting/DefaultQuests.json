@@ -1938,7 +1938,12 @@
           "desc:8": "We can now order steam locomotives. Yay!"
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
       "rewards:9": {
         "0:10": {
           "rewardID:8": "bq_standard:item",
@@ -17832,7 +17837,7 @@
       "home_anchor_y:5": 0.0,
       "livesmax:3": 10,
       "home_anchor_x:5": 0.5,
-      "editmode:1": 0,
+      "editmode:1": 1,
       "hardcore:1": 0,
       "home_image:8": "betterquesting:textures/gui/default_title.png",
       "party_enable:1": 1,

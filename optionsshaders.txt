@@ -1,10 +1,10 @@
-#Thu Sep 12 16:20:21 CEST 2024
-shaderPack=
+#Fri Oct 17 13:52:03 CEST 2025
+shaderPack=ARshadermod.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
 renderResMul=1.0
-shadowResMul=0.75
+shadowResMul=0.5
 handDepthMul=0.125
 cloudShadow=false
 oldHandLight=default
