@@ -295,6 +295,17 @@ recipes.addShapeless(<immersiveengineering:metal_device0:2>.withTag({BlockEntity
 //mineral mix
 var magnetite = Excavator.getMineral("Magnetite");
 magnetite.addOre("oreTitanium", 0.5);
+var cassiterite = Excavator.getMineral("Cassiterite");
+cassiterite.addOre("oreQuartz", 0.5);
+var gold = Excavator.getMineral("Gold");
+gold.addOre("oreQuartz", 0.1);
+var cinnabar = Excavator.getMineral("Cinnabar");
+cinnabar.addOre("oreQuartz", 0.4);
+var pyrite = Excavator.getMineral("Pyrite");
+pyrite.addOre("oreRedstone", 0.1);
+pyrite.addOre("oreCoal", 0.1);
+var quarzite = Excavator.getMineral("Quartzite");
+quarzite.addOre("oreRedstone", 0.2);
 
 
 

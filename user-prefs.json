@@ -2402,6 +2402,14 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\mp\\Minecraft~Server\\DIM0\\4",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Minecraft~Server\\DIM0\\4\\0,-1.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\mp\\Minecraft~Server\\DIM0\\5",
         "isSelected": false
       },
@@ -2426,6 +2434,10 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\mp\\Minecraft~Server\\DIM0\\day\\1,-1.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\mp\\Minecraft~Server\\DIM0\\night",
         "isSelected": false
       },
@@ -2438,6 +2450,10 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\mp\\Minecraft~Server\\DIM0\\night\\1,-1.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\mp\\Minecraft~Server\\DIM0\\topo",
         "isSelected": false
       },
@@ -2447,6 +2463,10 @@
       },
       {
         "path": "journeymap\\data\\mp\\Minecraft~Server\\DIM0\\topo\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Minecraft~Server\\DIM0\\topo\\1,-1.png",
         "isSelected": false
       },
       {
@@ -3143,6 +3163,14 @@
       },
       {
         "path": "logs\\2025-10-15-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-10-16-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-10-16-2.log.gz",
         "isSelected": false
       },
       {
@@ -4442,6 +4470,14 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World\\minecolonies\\colonies-2025-10-16_19.35.00.zip",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\minecolonies\\colonies-2025-10-16_19.38.31.zip",
+        "isSelected": false
+      },
+      {
         "path": "saves\\New World\\minecolonies\\colonies.dat",
         "isSelected": false
       },
@@ -4491,6 +4527,14 @@
       },
       {
         "path": "saves\\New World\\structurize",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\structurize\\structurize_linksession-2025-10-16T19.35.37.dat.old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\structurize\\structurize_linksession-2025-10-16T19.52.50.dat.old",
         "isSelected": false
       },
       {
@@ -5470,6 +5514,10 @@
         "isSelected": false
       },
       {
+        "path": "Towards-Rocket-Science-2.7.0.zip",
+        "isSelected": false
+      },
+      {
         "path": "usercache.json",
         "isSelected": false
       },
@@ -5478,7 +5526,7 @@
         "isSelected": false
       }
     ],
-    "recommendedRam": 6144,
+    "recommendedRam": 8192,
     "enableRecommendedRam": true
   }
 }
