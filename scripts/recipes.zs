@@ -100,6 +100,7 @@ recipes.remove(<buildcrafttransport:pipe_stone_item>);
 recipes.remove(<buildcrafttransport:pipe_wood_item>);
 //Don't touch me!
 //#Add
+recipes.addShapeless(<minecraft:slime_ball> * 3, [<minecraft:spider_eye>,<minecraft:clay_ball>,<minecraft:dye:10>,<minecraft:water_bucket>,<minecraft:sugar>]);
 recipes.addShapeless(<tektopia:prof_blacksmith>, [<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<immersiveengineering:tool>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>]);
 recipes.addShapeless(<tektopia:prof_rancher>, [<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:lead>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>]);
 recipes.addShapeless(<tektopia:prof_enchanter>, [<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:book>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:emerald>]);
