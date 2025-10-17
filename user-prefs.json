@@ -3174,6 +3174,18 @@
         "isSelected": false
       },
       {
+        "path": "logs\\2025-10-16-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-10-17-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-10-17-2.log.gz",
+        "isSelected": false
+      },
+      {
         "path": "logs\\betterfoliage.log",
         "isSelected": false
       },
@@ -4478,6 +4490,18 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World\\minecolonies\\colonies-2025-10-17_02.44.56.zip",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\minecolonies\\colonies-2025-10-17_02.52.58.zip",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\minecolonies\\colonies-2025-10-17_03.03.09.zip",
+        "isSelected": false
+      },
+      {
         "path": "saves\\New World\\minecolonies\\colonies.dat",
         "isSelected": false
       },
@@ -4530,11 +4554,11 @@
         "isSelected": false
       },
       {
-        "path": "saves\\New World\\structurize\\structurize_linksession-2025-10-16T19.35.37.dat.old",
+        "path": "saves\\New World\\structurize\\structurize_linksession-2025-10-17T02.59.08.dat.old",
         "isSelected": false
       },
       {
-        "path": "saves\\New World\\structurize\\structurize_linksession-2025-10-16T19.52.50.dat.old",
+        "path": "saves\\New World\\structurize\\structurize_linksession-2025-10-17T03.04.29.dat.old",
         "isSelected": false
       },
       {
@@ -5515,6 +5539,10 @@
       },
       {
         "path": "Towards-Rocket-Science-2.7.0.zip",
+        "isSelected": false
+      },
+      {
+        "path": "Towards-Rocket-Science-2.7.1.zip",
         "isSelected": false
       },
       {
