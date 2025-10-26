@@ -31,9 +31,9 @@ mods.immersivetechnology.Boiler.removeFuel(<liquid:gasoline>);
 mods.immersivetechnology.Boiler.addFuel(<liquid:gasoline> * 10, 1, 10);
 
 mods.immersivetechnology.GasTurbine.removeFuel(<liquid:gasoline>);
-mods.immersivetechnology.GasTurbine.addFuel(<liquid:fluegas> * 50, <liquid:gasoline> * 30, 1);
-mods.immersivetechnology.GasTurbine.addFuel(<liquid:water> * 5, <liquid:rocketfuel> * 10, 1);
-mods.immersivetechnology.GasTurbine.addFuel(<liquid:fluegas> * 10, <liquid:kerosene> * 10, 1);
+mods.immersivetechnology.GasTurbine.addFuel(<liquid:fluegas> * 25, <liquid:gasoline> * 15, 1);
+mods.immersivetechnology.GasTurbine.addFuel(<liquid:water> * 2, <liquid:rocketfuel> * 5, 1);
+mods.immersivetechnology.GasTurbine.addFuel(<liquid:fluegas> * 5, <liquid:kerosene> * 5, 1);
 
 mods.immersivepetroleum.PortableGenerator.registerPortableGenFuel(<liquid:rocketfuel>, 512, 1000/(15*20));
 
