@@ -3274,6 +3274,14 @@
         "isSelected": false
       },
       {
+        "path": "logs\\2025-10-28-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-10-28-4.log.gz",
+        "isSelected": false
+      },
+      {
         "path": "logs\\betterfoliage.log",
         "isSelected": false
       },
@@ -4618,6 +4626,10 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World\\minecolonies\\colonies-2025-10-28_19.07.39.zip",
+        "isSelected": false
+      },
+      {
         "path": "saves\\New World\\minecolonies\\colonies.dat",
         "isSelected": false
       },
@@ -4674,11 +4686,11 @@
         "isSelected": false
       },
       {
-        "path": "saves\\New World\\structurize\\structurize_linksession-2025-10-28T14.03.52.dat.old",
+        "path": "saves\\New World\\structurize\\structurize_linksession-2025-10-28T14.15.48.dat.old",
         "isSelected": false
       },
       {
-        "path": "saves\\New World\\structurize\\structurize_linksession-2025-10-28T14.15.48.dat.old",
+        "path": "saves\\New World\\structurize\\structurize_linksession-2025-10-28T19.08.34.dat.old",
         "isSelected": false
       },
       {
@@ -6534,6 +6546,10 @@
         "isSelected": false
       },
       {
+        "path": "hs_err_pid10656.log",
+        "isSelected": false
+      },
+      {
         "path": "minecraftinstance.json",
         "isSelected": false
       },
@@ -6603,6 +6619,10 @@
       },
       {
         "path": "Towards-Rocket-Science-2.7.6.zip",
+        "isSelected": false
+      },
+      {
+        "path": "Towards-Rocket-Science-2.7.7.zip",
         "isSelected": false
       },
       {
