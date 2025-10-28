@@ -261,12 +261,12 @@ dOreDef.setHarvestLevel("pickaxe", 3);
 
 
 //add distillation tower naphte recipes
-mods.immersivepetroleum.Distillation.addRecipe([<liquid:naphta> * 15, <liquid:kerosene> * 15], [], <liquid:diesel>*30, 2048, 1, []);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:naphta> * 5, <liquid:kerosene> * 15], [], <liquid:diesel>*20, 2048, 1, []);
 //add distillation tower plastic recipes (replaced by polymerizer)
 //mods.immersivepetroleum.Distillation.addRecipe([<liquid:moltenplastic> * 5], [], <liquid:propene>*30, 2048, 1, []);
 
 
-mods.immersiveengineering.Refinery.addRecipe(<liquid:propene>, <liquid:naphta>, <liquid:steam>*50, 2048);
+mods.immersiveengineering.Refinery.addRecipe(<liquid:propene>, <liquid:naphta>*5, <liquid:steam>*50, 2048);
 
 
 //mods.tconstruct.Casting.addTableRecipe(IItemStack output, IIngredient cast, ILiquidStack fluid, int amount, @Optional boolean consumeCast, @Optional int time);

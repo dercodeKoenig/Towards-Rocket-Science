@@ -3262,6 +3262,18 @@
         "isSelected": false
       },
       {
+        "path": "logs\\2025-10-26-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-10-28-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-10-28-2.log.gz",
+        "isSelected": false
+      },
+      {
         "path": "logs\\betterfoliage.log",
         "isSelected": false
       },
@@ -3626,7 +3638,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\finite_water-1.0.jar",
+        "path": "mods\\finite_water-1.1.jar",
         "isSelected": true
       },
       {
@@ -4594,6 +4606,18 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World\\minecolonies\\colonies-2025-10-28_13.55.14.zip",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\minecolonies\\colonies-2025-10-28_14.02.09.zip",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\minecolonies\\colonies-2025-10-28_14.11.13.zip",
+        "isSelected": false
+      },
+      {
         "path": "saves\\New World\\minecolonies\\colonies.dat",
         "isSelected": false
       },
@@ -4650,11 +4674,11 @@
         "isSelected": false
       },
       {
-        "path": "saves\\New World\\structurize\\structurize_linksession-2025-10-26T04.19.39.dat.old",
+        "path": "saves\\New World\\structurize\\structurize_linksession-2025-10-28T14.03.52.dat.old",
         "isSelected": false
       },
       {
-        "path": "saves\\New World\\structurize\\structurize_linksession-2025-10-26T04.30.16.dat.old",
+        "path": "saves\\New World\\structurize\\structurize_linksession-2025-10-28T14.15.48.dat.old",
         "isSelected": false
       },
       {
@@ -6575,6 +6599,10 @@
       },
       {
         "path": "Towards-Rocket-Science-2.7.5.zip",
+        "isSelected": false
+      },
+      {
+        "path": "Towards-Rocket-Science-2.7.6.zip",
         "isSelected": false
       },
       {
