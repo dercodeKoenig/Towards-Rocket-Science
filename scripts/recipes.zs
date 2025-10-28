@@ -1,6 +1,7 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
+recipes.removeShaped(<minecraft:gunpowder>, [[<ore:dustSulfur>, <ore:dustSulfur>],[<ore:dustSulfur>, <ore:dustSulfur>]]);
 recipes.remove(<advancedrocketry:oxidizerfueltank>);
 recipes.remove(<advancedrocketry:bipropellantfueltank>);
 recipes.remove(<advancedrocketry:fueltank>);
